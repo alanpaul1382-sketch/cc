@@ -75,7 +75,7 @@ Nanyang Polytechnic, like many educational institutions in Singapore, faces seve
 
 Singapore's education technology (EdTech) market is part of a global industry valued at approximately **USD 340 billion in 2024**, projected to exceed **USD 690 billion by 2030** (Statista, 2024). In Singapore specifically:
 
-- The government allocated **SGD 13.7 billion** to the Ministry of Education budget in 2024, representing about 15.5 % of total government expenditure (MOE, 2024).
+- The government allocated **SGD 13.7 billion** to the Ministry of Education budget in 2024, representing about 15.5% of total government expenditure (MOE, 2024).
 - The five polytechnics collectively serve over 70,000 full-time students and tens of thousands of CET learners annually.
 - NYP's annual operating budget is estimated at approximately **SGD 300–400 million**, including government grants, tuition fees, and industry project revenue.
 
