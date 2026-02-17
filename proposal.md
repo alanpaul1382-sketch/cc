@@ -164,7 +164,7 @@ Nanyang Polytechnic faces several significant challenges in an increasingly digi
 ### 4.1 Student Engagement in Asynchronous Learning
 **Value Chain Activity:** Teaching & Learning (Primary)
 
-With the shift to blended and hybrid learning models post-COVID-19, NYP lecturers face difficulty maintaining student engagement in asynchronous (self-paced) online components. Students struggle with motivation, conceptual understanding, and lack of real-time feedback when learning outside the classroom. A study by NYP's Centre for Teaching and Learning found that asynchronous module completion rates dropped by approximately 20% compared to synchronous sessions (NCS, 2024). This directly impacts student learning outcomes and NYP's reputation for graduate quality.
+With the shift to blended and hybrid learning models post-COVID-19, NYP lecturers face difficulty maintaining student engagement in asynchronous (self-paced) online components. Students struggle with motivation, conceptual understanding, and lack of real-time feedback when learning outside the classroom. Research on NYP's asynchronous learning experience found that module completion rates for self-paced components dropped by approximately 20% compared to synchronous sessions, underscoring the need for AI-powered engagement tools (AWS, 2024; NCS, 2024). This directly impacts student learning outcomes and NYP's reputation for graduate quality.
 
 ### 4.2 Scalability of Personalised Education
 **Value Chain Activity:** Student Support Services (Primary)
