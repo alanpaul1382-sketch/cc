@@ -79,12 +79,12 @@ The four technologies are evaluated individually across consistent criteria — 
 
 **Key findings:**
 
-- **AI** (Clifton) can deliver SGD 2.7–5.5 million in annual benefits through adaptive learning, predictive analytics, and automated assessment, with a payback period of approximately 1.0–1.5 years.
-- **Immersive Media** (Collin) can save SGD 1.3–3.6 million annually by replacing physical lab infrastructure with virtual environments and enhancing experiential learning, with a payback period of approximately 1.2–1.8 years.
-- **Cybersecurity** (Alex) can prevent SGD 2.0–4.5 million in annual losses from data breaches and regulatory penalties while producing industry-ready cybersecurity graduates, with a payback period of approximately 1.5–2.0 years.
-- **IoT** (Declan) can reduce campus operational costs by SGD 1.5–3.0 million annually through smart building management and energy optimisation, with a payback period of approximately 1.2–1.8 years.
+- **AI** (Clifton) can deliver SGD 4.0 million in cumulative three-year benefits through adaptive learning, predictive analytics, and automated assessment, against an investment of SGD 1.9 million — yielding a payback period of approximately 1.3 years and an ROI of 208%.
+- **Immersive Media** (Collin) can generate SGD 3.3 million in cumulative three-year benefits by replacing physical lab infrastructure with virtual environments and enhancing experiential learning, against an investment of SGD 1.6 million — yielding a payback period of approximately 1.5 years and an ROI of 210%.
+- **Cybersecurity** (Alex) can deliver SGD 5.7 million in cumulative three-year benefits by preventing data breaches, ensuring regulatory compliance, and producing industry-ready cybersecurity graduates, against an investment of SGD 3.4 million — yielding a payback period of approximately 1.8 years and an ROI of 167%.
+- **IoT** (Declan) can deliver SGD 3.6 million in cumulative three-year benefits through smart building management and energy optimisation, against an investment of SGD 1.6 million — yielding a payback period of approximately 1.3 years and an ROI of 226%.
 
-The total three-year investment across all four technologies is estimated at **SGD 5.6–11.8 million**, yielding projected cumulative benefits of **SGD 22.5–49.8 million** over the same period — a combined ROI of approximately **280–320%**.
+The total three-year investment across all four technologies is estimated at **SGD 8.5 million**, yielding projected cumulative benefits of **SGD 16.6 million** over the same period — a net benefit of **SGD 8.1 million** and a combined ROI of approximately **195%**, with an average payback period of **1.5 years**.
 
 A phased implementation roadmap is proposed: cybersecurity foundations in Year 1, IoT and AI deployment in Year 2, and immersive media rollout in Year 3, ensuring that each technology builds upon the infrastructure and safeguards established by the preceding phase.
 
