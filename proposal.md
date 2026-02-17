@@ -377,11 +377,11 @@ The total estimated investment across all four technologies ranges from **S$2.8 
 
 | Technology | Year 1 Cost (S$) | Annual Recurring (S$) |
 |------------|-------------------|-----------------------|
-| AI | 500K – 1.2M | 350K – 900K |
-| Immersive Media | 690K – 1.22M | 80K – 160K |
-| Cybersecurity | 770K – 1.78M | 270K – 680K |
-| IoT | 840K – 1.75M | 90K – 200K |
-| **Total** | **2.8M – 5.95M** | **790K – 1.94M** |
+| AI | 0.50M – 1.20M | 0.35M – 0.90M |
+| Immersive Media | 0.69M – 1.22M | 0.08M – 0.16M |
+| Cybersecurity | 0.77M – 1.78M | 0.27M – 0.68M |
+| IoT | 0.84M – 1.75M | 0.09M – 0.20M |
+| **Total** | **2.80M – 5.95M** | **0.79M – 1.94M** |
 
 As Singapore's EdTech market grows towards US$2.2 billion by 2027 and the e-learning market towards US$12.5 billion by 2034, NYP's early adoption of these technologies will be critical to maintaining its position as a leading polytechnic and producing graduates who can thrive in and contribute to the digital economy.
 
