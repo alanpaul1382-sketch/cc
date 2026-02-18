@@ -757,6 +757,8 @@ To evaluate the financial viability of the combined technology adoption, the fol
 
 *Figure 17: Five-Year Net Present Value (NPV) Analysis*
 
+> **Methodology note:** The IRR of ~35–55% is estimated by solving for the discount rate at which the NPV of the conservative and optimistic cash flow scenarios equals zero. The conservative scenario uses the lower bound of projected annual benefits (SGD 400K–2,000K over five years) against cumulative investments of SGD 2,950K. The optimistic scenario applies the upper bound of projected benefits (SGD 1,150K–5,850K), reflecting full adoption of all three technologies with Training-as-a-Service and CET revenue. Both scenarios assume a phased deployment with increasing returns as adoption matures.
+
 ### Phased Implementation Roadmap
 
 We recommend that NYP adopt a **phased implementation approach** to manage risk, demonstrate value incrementally, and build internal capabilities progressively:
