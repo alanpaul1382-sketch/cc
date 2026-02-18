@@ -109,7 +109,7 @@ NYP faces significant challenges including curriculum relevance gaps, diverse st
 
 ## 2. Introduction
 
-In today's rapidly evolving digital economy, emerging technologies hold the potential to revolutionize business operations across all sectors, creating new opportunities for growth and innovation. Singapore's education sector, in particular, stands at a critical juncture where digital transformation can significantly enhance teaching, learning, and institutional operations.
+In today's rapidly evolving digital economy, emerging technologies hold the potential to revolutionise business operations across all sectors, creating new opportunities for growth and innovation. Singapore's education sector, in particular, stands at a critical juncture where digital transformation can significantly enhance teaching, learning, and institutional operations.
 
 The Infocomm Media Development Authority (IMDA) of Singapore has identified nine key technology trends in its Services and Digital Economy Technology Roadmap, including Artificial Intelligence (AI), Immersive Media (AR/VR), Blockchain, and Internet of Things (IoT). These technologies are expected to reshape Singapore's economy over the next three to five years.
 
@@ -173,7 +173,7 @@ While NYP emphasizes applied learning, certain disciplines—such as healthcare,
 
 ### 4.6 Campus Energy and Resource Efficiency
 
-Managing a large campus with thousands of students requires significant energy and resources. Without smart monitoring systems, energy wastage and inefficient space utilization add to operational costs.
+Managing a large campus with thousands of students requires significant energy and resources. Without smart monitoring systems, energy wastage and inefficient space utilisation add to operational costs.
 
 ### 4.7 Data Security and Compliance
 
@@ -317,7 +317,7 @@ This mapping demonstrates that the four technologies complement each other acros
 
 Artificial Intelligence (AI) refers to the simulation of human intelligence by computer systems, encompassing machine learning, natural language processing, computer vision, and generative AI. As identified by IMDA in its technology roadmap, AI is one of the most transformative technologies shaping Singapore's digital economy.
 
-In the education sector, AI can be applied across the entire value chain—from student recruitment and enrollment to teaching, assessment, and career placement. The global AI in education market is projected to grow from USD 4.0 billion in 2024 to over USD 30 billion by 2030, at a CAGR of approximately 36%.
+In the education sector, AI can be applied across the entire value chain—from student recruitment and enrolment to teaching, assessment, and career placement. The global AI in education market is projected to grow from USD 4.0 billion in 2024 to over USD 30 billion by 2030, at a CAGR of approximately 36%.
 
 ### 7.2 Current Challenges Addressed by AI
 
@@ -326,7 +326,7 @@ In the education sector, AI can be applied across the entire value chain—from 
 | Challenge | How AI Addresses It |
 |---|---|
 | Curriculum relevance | AI-powered analytics identify skills gaps and industry trends to inform curriculum updates |
-| Diverse learning needs | Adaptive learning platforms personalize content delivery based on individual student performance |
+| Diverse learning needs | Adaptive learning platforms personalise content delivery based on individual student performance |
 | Manual assessment workload | AI-assisted grading and feedback systems reduce lecturer workload by up to 40% |
 | Student retention | Predictive analytics identify at-risk students early for timely intervention |
 | Administrative burden | Chatbots and intelligent automation handle routine queries and processes |
@@ -351,7 +351,7 @@ flowchart LR
 
 #### 7.3.1 Adaptive Learning Platforms
 
-AI-powered learning management systems (LMS) can analyze each student's learning patterns, strengths, and weaknesses to deliver personalized content and assessments. For example:
+AI-powered learning management systems (LMS) can analyse each student's learning patterns, strengths, and weaknesses to deliver personalised content and assessments. For example:
 
 - Students struggling with specific topics receive additional practice materials automatically
 - Advanced learners are offered more challenging content to maintain engagement
@@ -367,7 +367,7 @@ NYP can deploy conversational AI chatbots to handle student enquiries about cour
 
 #### 7.3.3 Predictive Analytics for Student Success
 
-By analyzing historical data on student attendance, grades, engagement, and demographics, AI models can predict which students are at risk of dropping out or failing. Lecturers and counselors can then proactively intervene.
+By analysing historical data on student attendance, grades, engagement, and demographics, AI models can predict which students are at risk of dropping out or failing. Lecturers and counsellors can then proactively intervene.
 
 **Example:** Georgia State University in the US uses predictive analytics and has increased graduation rates by 22% since implementation.
 
@@ -377,16 +377,16 @@ Generative AI tools can assist lecturers in creating assessments, providing auto
 
 #### 7.3.5 Curriculum Analytics
 
-AI systems can analyze job market data, industry reports, and employer feedback to recommend curriculum updates that keep NYP's programmes aligned with evolving industry needs.
+AI systems can analyse job market data, industry reports, and employer feedback to recommend curriculum updates that keep NYP's programmes aligned with evolving industry needs.
 
 ### 7.4 Disruption to the Digital Economy
 
 AI is fundamentally reshaping the education sector and the broader digital economy:
 
-- **Personalization at Scale:** AI enables institutions to offer individualized learning experiences to thousands of students simultaneously, disrupting the traditional classroom model.
+- **Personalisation at Scale:** AI enables institutions to offer individualised learning experiences to thousands of students simultaneously, disrupting the traditional classroom model.
 - **Workforce Transformation:** As AI automates routine tasks, the demand shifts toward higher-order skills—critical thinking, creativity, and emotional intelligence—requiring educational institutions to rethink their curricula.
 - **New Business Models:** AI enables micro-credentialing, competency-based education, and lifelong learning platforms that challenge traditional degree-based models.
-- **Industry Integration:** AI bridges education and industry by enabling real-time skills matching, internship recommendations, and career pathway optimization.
+- **Industry Integration:** AI bridges education and industry by enabling real-time skills matching, internship recommendations, and career pathway optimisation.
 
 ### 7.5 Impacts and Benefits
 
@@ -404,7 +404,7 @@ AI is fundamentally reshaping the education sector and the broader digital econo
 
 #### Benefits to Students
 
-- Personalized learning experiences tailored to individual needs
+- Personalised learning experiences tailored to individual needs
 - Faster feedback on assessments
 - 24/7 access to AI-powered support services
 - Better career guidance based on skills analysis and market trends
@@ -518,7 +518,7 @@ flowchart TB
 
 Immersive Media is disrupting the education sector and digital economy in several ways:
 
-- **Democratizing Experiential Learning:** VR/AR removes physical and financial barriers to high-quality experiential learning, enabling smaller institutions to offer world-class simulations.
+- **Democratising Experiential Learning:** VR/AR removes physical and financial barriers to high-quality experiential learning, enabling smaller institutions to offer world-class simulations.
 - **Creating New Content Markets:** The demand for educational VR/AR content is creating new business opportunities for content developers and technology providers.
 - **Transforming Assessment:** VR enables performance-based assessment in simulated real-world scenarios, providing richer evaluation data than traditional exams.
 - **Reshaping Campus Design:** As more learning moves to virtual environments, the physical design and resource allocation of campuses will need to evolve.
@@ -561,7 +561,7 @@ Immersive Media is disrupting the education sector and digital economy in severa
 | **Total Year 1 (with 5 VR modules)** | **$330,000 – $680,000** | |
 | **Annual recurring** | **$115,000 – $220,000** | |
 
-**Return on Investment:** Reduced expenditure on physical lab equipment and consumables (estimated S$100,000–200,000 annually) combined with increased enrollment from enhanced programme attractiveness can offset the investment within 2–3 years.
+**Return on Investment:** Reduced expenditure on physical lab equipment and consumables (estimated S$100,000–200,000 annually) combined with increased enrolment from enhanced programme attractiveness can offset the investment within 2–3 years.
 
 ### 8.7 Key Challenges for Adoption
 
@@ -657,7 +657,7 @@ This creates a comprehensive, verifiable portfolio of a student's competencies.
 
 A blockchain-based system can maintain a complete, tamper-proof record of each student's academic journey, including:
 
-- Course enrollments and completions
+- Course enrolments and completions
 - Grades and assessments
 - Co-curricular activities
 - Industry attachments and internships
@@ -672,7 +672,7 @@ Blockchain-based credentials are disrupting the education sector and digital eco
 
 - **Decentralized Trust:** Blockchain eliminates the need for centralized verification authorities, enabling direct peer-to-peer credential validation.
 - **Lifelong Learning Records:** As education becomes more fragmented (micro-credentials, online courses, boot camps), blockchain provides a unified, verifiable record of all learning achievements.
-- **Skills-Based Economy:** Verifiable, granular credentials support the shift from degree-based to skills-based hiring, transforming labor markets.
+- **Skills-Based Economy:** Verifiable, granular credentials support the shift from degree-based to skills-based hiring, transforming labour markets.
 - **Global Mobility:** Blockchain credentials are borderless, supporting international student and worker mobility—critical for Singapore as a global education and talent hub.
 
 ### 9.5 Impacts and Benefits
@@ -719,7 +719,7 @@ Blockchain-based credentials are disrupting the education sector and digital eco
 | **Total Year 1** | **$220,000 – $445,000** | |
 | **Annual recurring** | **$40,000 – $85,000** | |
 
-**Return on Investment:** Savings from reduced paper printing (S$50,000–100,000/year), eliminated manual verification labor (estimated 2–3 FTE staff hours at S$80,000–120,000/year), and enhanced enrollment from institutional reputation improvements can achieve ROI within 1–2 years.
+**Return on Investment:** Savings from reduced paper printing (S$50,000–100,000/year), eliminated manual verification labour (estimated 2–3 FTE staff hours at S$80,000–120,000/year), and enhanced enrolment from institutional reputation improvements can achieve ROI within 1–2 years.
 
 ### 9.7 Key Challenges for Adoption
 
@@ -737,7 +737,7 @@ Blockchain-based credentials are disrupting the education sector and digital eco
 
 ### 10.1 Technology Overview
 
-The Internet of Things (IoT) refers to a network of interconnected physical devices embedded with sensors, software, and connectivity that enables them to collect and exchange data. In an educational setting, IoT enables the creation of a "Smart Campus"—an intelligent campus ecosystem that optimizes operations, enhances the learning environment, and improves safety.
+The Internet of Things (IoT) refers to a network of interconnected physical devices embedded with sensors, software, and connectivity that enables them to collect and exchange data. In an educational setting, IoT enables the creation of a "Smart Campus"—an intelligent campus ecosystem that optimises operations, enhances the learning environment, and improves safety.
 
 IMDA has identified IoT as one of the nine key technology trends in its Services and Digital Economy Technology Roadmap. The global IoT in education market is projected to reach approximately USD 20 billion by 2025, with a CAGR of 17.5%.
 
@@ -747,8 +747,8 @@ IMDA has identified IoT as one of the nine key technology trends in its Services
 
 | Challenge | How IoT Addresses It |
 |---|---|
-| High energy costs | Smart sensors optimize lighting, HVAC, and energy usage |
-| Inefficient space utilization | Occupancy sensors track room usage in real time |
+| High energy costs | Smart sensors optimise lighting, HVAC, and energy usage |
+| Inefficient space utilisation | Occupancy sensors track room usage in real time |
 | Manual attendance tracking | Automated attendance via RFID/Bluetooth beacons |
 | Campus safety | IoT-based surveillance and alert systems |
 | Facility maintenance | Predictive maintenance through sensor monitoring |
@@ -807,9 +807,9 @@ Occupancy sensors and booking systems enable:
 - Real-time visibility of available classrooms, study spaces, and meeting rooms
 - Automated room allocation based on class sizes and equipment needs
 - Data-driven campus planning based on actual usage patterns
-- Dynamic scheduling to maximize facility utilization
+- Dynamic scheduling to maximise facility utilisation
 
-**Example:** Smart campus implementations at institutions like Singapore Polytechnic have demonstrated significant improvements in space utilization rates through IoT-based room management.
+**Example:** Smart campus implementations at institutions like Singapore Polytechnic have demonstrated significant improvements in space utilisation rates through IoT-based room management.
 
 #### 10.3.3 Automated Attendance and Access Control
 
@@ -858,7 +858,7 @@ IoT is disrupting the education sector and digital economy in several ways:
 | Benefit | Estimated Impact |
 |---|---|
 | Energy cost reduction | 30–40% savings on utilities |
-| Improved space utilization | 20–30% increase in room utilization rates |
+| Improved space utilisation | 20–30% increase in room utilisation rates |
 | Reduced maintenance costs | 15–25% reduction through predictive maintenance |
 | Enhanced campus safety | Faster emergency response times |
 | Sustainability credentials | Support for Green Plan 2030 commitments |
@@ -887,7 +887,7 @@ IoT is disrupting the education sector and digital economy in several ways:
 | **Total Year 1** | **$375,000 – $750,000** | |
 | **Annual recurring** | **$150,000 – $300,000** | |
 
-**Return on Investment:** Energy savings alone (estimated S$300,000–500,000 annually based on typical 30–40% reduction on a large campus) can offset the annual recurring costs. Additional savings from predictive maintenance and improved space utilization accelerate ROI to within 1–2 years.
+**Return on Investment:** Energy savings alone (estimated S$300,000–500,000 annually based on typical 30–40% reduction on a large campus) can offset the annual recurring costs. Additional savings from predictive maintenance and improved space utilisation accelerate ROI to within 1–2 years.
 
 ### 10.7 Key Challenges for Adoption
 
