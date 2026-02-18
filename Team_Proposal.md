@@ -10,6 +10,8 @@
 
 **Date:** February 2026
 
+**Prepared by:** Team 1
+
 ---
 
 ### Team Members
@@ -25,20 +27,87 @@
 
 ## Table of Contents
 
-1. [Introduction](#1-introduction)
-2. [Organization Overview](#2-organization-overview)
-3. [Current Problems and Challenges](#3-current-problems-and-challenges)
-4. [Market Size and Potential Revenue](#4-market-size-and-potential-revenue)
-5. [Emerging Technology 1 – Artificial Intelligence (Clifton)](#5-emerging-technology-1--artificial-intelligence-ai)
-6. [Emerging Technology 2 – Immersive Media VR/AR (Collin)](#6-emerging-technology-2--immersive-media-vrar)
-7. [Emerging Technology 3 – Blockchain-Based Certificate Verification (Declan)](#7-emerging-technology-3--blockchain-based-certificate-verification)
-8. [Emerging Technology 4 – Internet of Things / Smart Campus (Alex)](#8-emerging-technology-4--internet-of-things--smart-campus)
-9. [Conclusion](#9-conclusion)
-10. [References](#10-references)
+1. [Executive Summary](#1-executive-summary)
+2. [Introduction](#2-introduction)
+3. [Organization Overview](#3-organization-overview)
+4. [Current Problems and Challenges](#4-current-problems-and-challenges)
+5. [Market Size and Potential Revenue](#5-market-size-and-potential-revenue)
+6. [Value Chain Analysis](#6-value-chain-analysis)
+7. [Emerging Technology 1 – Artificial Intelligence (Clifton)](#7-emerging-technology-1--artificial-intelligence-ai)
+8. [Emerging Technology 2 – Immersive Media VR/AR (Collin)](#8-emerging-technology-2--immersive-media-vrar)
+9. [Emerging Technology 3 – Blockchain-Based Certificate Verification (Declan)](#9-emerging-technology-3--blockchain-based-certificate-verification)
+10. [Emerging Technology 4 – Internet of Things / Smart Campus (Alex)](#10-emerging-technology-4--internet-of-things--smart-campus)
+11. [Conclusion](#11-conclusion)
+12. [References](#12-references)
 
 ---
 
-## 1. Introduction
+## List of Illustrations
+
+### Figures
+
+| Figure No. | Title | Section |
+|---|---|---|
+| Figure 1 | NYP Value Chain Model for Education | 6 |
+| Figure 2 | Emerging Technologies Mapped to NYP's Value Chain | 6 |
+| Figure 3 | AI-Powered Adaptive Learning Workflow | 7 |
+| Figure 4 | AI Adoption ROI Projection (3-Year) | 7 |
+| Figure 5 | VR/AR Integration Across NYP Schools | 8 |
+| Figure 6 | Blockchain Certificate Verification Process Flow | 9 |
+| Figure 7 | Blockchain Credential Ecosystem | 9 |
+| Figure 8 | IoT Smart Campus Architecture | 10 |
+| Figure 9 | Phased Implementation Roadmap | 11 |
+| Figure 10 | Total Cost of Ownership – All Technologies (3-Year) | 11 |
+
+### Tables
+
+| Table No. | Title | Section |
+|---|---|---|
+| Table 1 | Team Members and Technology Assignments | Title Page |
+| Table 2 | Digital Education Technology Market Segments | 5 |
+| Table 3 | NYP Value Chain – Primary and Support Activities | 6 |
+| Table 4 | Technology-to-Value-Chain Mapping | 6 |
+| Table 5 | Current Challenges Addressed by AI | 7 |
+| Table 6 | AI Benefits to NYP | 7 |
+| Table 7 | AI Cost Analysis | 7 |
+| Table 8 | Current Challenges Addressed by VR/AR | 8 |
+| Table 9 | VR/AR Benefits to NYP | 8 |
+| Table 10 | VR/AR Cost Analysis | 8 |
+| Table 11 | Current Challenges Addressed by Blockchain | 9 |
+| Table 12 | Blockchain Benefits to NYP | 9 |
+| Table 13 | Blockchain Cost Analysis | 9 |
+| Table 14 | Current Challenges Addressed by IoT | 10 |
+| Table 15 | IoT Benefits to NYP | 10 |
+| Table 16 | IoT Cost Analysis | 10 |
+| Table 17 | Consolidated Technology Investment Summary | 11 |
+
+---
+
+## 1. Executive Summary
+
+This proposal presents a comprehensive technology adoption strategy for **Nanyang Polytechnic (NYP)**, one of Singapore's five government-funded polytechnics serving approximately 15,000 full-time students. Our team has evaluated four emerging technologies identified in the Infocomm Media Development Authority (IMDA) Services and Digital Economy Technology Roadmap and assessed their potential to transform NYP's educational delivery, administrative efficiency, and competitive positioning.
+
+**Key Findings:**
+
+NYP faces significant challenges including curriculum relevance gaps, diverse student learning needs, manual administrative processes, credential fraud risks, limited experiential learning capacity, and rising campus operational costs. These challenges directly affect NYP's ability to fulfil its mission of nurturing industry-ready graduates in an increasingly digital economy.
+
+**Proposed Technologies and Expected Impact:**
+
+- **Artificial Intelligence (AI):** AI-powered adaptive learning, predictive analytics, and intelligent chatbots can improve student pass rates by 15–30%, reduce administrative workloads by 25–40%, and enhance student retention by 10–20%. Year 1 investment: S$550K–1.1M.
+
+- **Immersive Media (VR/AR):** Virtual laboratories and AR-enhanced classrooms can improve knowledge retention by up to 75%, reduce physical lab costs by 20–30%, and increase international student interest by 15–25%. Year 1 investment: S$330K–680K.
+
+- **Blockchain-Based Certificate Verification:** Blockchain-verified digital credentials can reduce manual verification requests by 80%, save S$50,000–100,000 annually on printing, and provide fraud-proof credential authentication. Year 1 investment: S$220K–445K.
+
+- **Internet of Things (IoT) / Smart Campus:** IoT-enabled campus systems can reduce energy costs by 30–40%, improve space utilisation by 20–30%, and enable predictive maintenance with 15–25% cost reduction. Year 1 investment: S$375K–750K.
+
+**Total Investment:** S$1.48M–2.98M in Year 1, with annual recurring costs of S$655K–1.31M. All four technologies are projected to achieve return on investment within 1–3 years through cost savings, improved retention revenue, and operational efficiency gains.
+
+**Strategic Alignment:** These technology adoptions align with IMDA's Digital Enterprise Blueprint, Singapore's Smart Nation Initiative, the SkillsFuture Movement, and the Green Plan 2030, positioning NYP as a leader in technology-enabled education.
+
+---
+
+## 2. Introduction
 
 In today's rapidly evolving digital economy, emerging technologies hold the potential to revolutionize business operations across all sectors, creating new opportunities for growth and innovation. Singapore's education sector, in particular, stands at a critical juncture where digital transformation can significantly enhance teaching, learning, and institutional operations.
 
@@ -46,13 +115,13 @@ The Infocomm Media Development Authority (IMDA) of Singapore has identified nine
 
 This proposal examines how four emerging technologies—Artificial Intelligence, Immersive Media (VR/AR), Blockchain-Based Certificate Verification, and Internet of Things (IoT)—can be adopted by **Nanyang Polytechnic (NYP)** to enhance its educational delivery, administrative efficiency, and overall competitiveness in Singapore's education landscape.
 
-Our team has conducted market research into NYP's current challenges and evaluated how these frontier technologies, as identified in the IMDA technology roadmap, can improve business processes across the institution's value chain. Each team member focuses on a specific technology, analyzing its potential impact, benefits, cost implications, and disruption to the digital economy.
+Our team has conducted extensive market research into NYP's current challenges and evaluated how these frontier technologies, as identified in the IMDA technology roadmap, can improve business processes across the institution's value chain. Each team member focuses on a specific technology, analysing its potential impact, benefits, cost implications, and disruption to the digital economy. The proposal applies Porter's Value Chain framework to map each technology to specific primary and support activities at NYP, ensuring that every recommendation is grounded in clear business justification.
 
 ---
 
-## 2. Organization Overview
+## 3. Organization Overview
 
-### 2.1 About Nanyang Polytechnic
+### 3.1 About Nanyang Polytechnic
 
 Nanyang Polytechnic (NYP) is one of Singapore's five government-funded polytechnics, established in 1992. Located in Ang Mo Kio, NYP offers a wide range of full-time and part-time diploma courses across multiple schools:
 
@@ -65,11 +134,11 @@ Nanyang Polytechnic (NYP) is one of Singapore's five government-funded polytechn
 
 NYP serves approximately 15,000 full-time students annually and offers continuing education and training (CET) programmes for working adults. The institution is known for its applied learning approach and strong industry partnerships with companies like Microsoft, ServiceNow, and other technology leaders.
 
-### 2.2 Mission and Vision
+### 3.2 Mission and Vision
 
 NYP's mission is to nurture industry-ready and future-ready graduates through innovative teaching and applied research. The institution's "Go Beyond" initiative allows learners to customise their diploma journey via Professional, International, or University pathways, integrating industry certifications and real-world experience into the academic framework.
 
-### 2.3 Recent Initiatives
+### 3.3 Recent Initiatives
 
 - **AI Nexus Lab:** Launched to help SMEs adopt AI while providing students with hands-on experience in building AI solutions.
 - **Microsoft Partnership:** Collaboration to empower student success through Microsoft Power BI and cloud technologies.
@@ -78,51 +147,53 @@ NYP's mission is to nurture industry-ready and future-ready graduates through in
 
 ---
 
-## 3. Current Problems and Challenges
+## 4. Current Problems and Challenges
 
 Nanyang Polytechnic, like many educational institutions, faces several key challenges in the current digital economy:
 
-### 3.1 Keeping Curriculum Relevant
+### 4.1 Keeping Curriculum Relevant
 
 Rapid advancements in AI, cloud computing, and digital tools mean curricula require constant renewal. The pace of technological change often outstrips the speed at which course content can be updated, creating a gap between what students learn and what industry demands.
 
-### 3.2 Diverse Student Learning Needs
+### 4.2 Diverse Student Learning Needs
 
 NYP's student population is increasingly diverse, with different learning preferences, paces, and career aspirations. Traditional one-size-fits-all teaching methods are insufficient to engage all learners effectively. The challenge is to create flexible, student-centric pathways that accommodate individual needs.
 
-### 3.3 Manual Administrative Processes
+### 4.3 Manual Administrative Processes
 
 Many administrative functions—such as certificate issuance, verification, attendance tracking, and facility management—still rely on manual or semi-automated processes. These are time-consuming, error-prone, and costly to maintain.
 
-### 3.4 Certificate Fraud and Verification Delays
+### 4.4 Certificate Fraud and Verification Delays
 
 The manual process of verifying academic credentials is slow and susceptible to fraud. Employers and other institutions must contact NYP directly to verify certificates, leading to delays and potential for forged documents.
 
-### 3.5 Limited Experiential Learning Opportunities
+### 4.5 Limited Experiential Learning Opportunities
 
 While NYP emphasizes applied learning, certain disciplines—such as healthcare, engineering, and sciences—require expensive equipment, labs, or real-world scenarios that are difficult to replicate safely in a classroom setting.
 
-### 3.6 Campus Energy and Resource Efficiency
+### 4.6 Campus Energy and Resource Efficiency
 
 Managing a large campus with thousands of students requires significant energy and resources. Without smart monitoring systems, energy wastage and inefficient space utilization add to operational costs.
 
-### 3.7 Data Security and Compliance
+### 4.7 Data Security and Compliance
 
 Singapore's regulatory environment around data protection (PDPA) and AI governance is stringent. Balancing innovation with security, privacy, and regulatory compliance remains an ongoing challenge.
 
 ---
 
-## 4. Market Size and Potential Revenue
+## 5. Market Size and Potential Revenue
 
-### 4.1 Singapore Education Market
+### 5.1 Singapore Education Market
 
 The Singapore education market was estimated at approximately **USD 3.62 billion in 2024**, with a projected compound annual growth rate (CAGR) of **7.04%**, expected to reach **USD 7.65 billion by 2035** (Decision Advisors, 2024).
 
 The government's total operating expenditure on education exceeds **S$10 billion annually**, with polytechnic education receiving a significant share. Singapore's five polytechnics collectively serve over 70,000 full-time students.
 
-### 4.2 Digital Education Technology Market
+### 5.2 Digital Education Technology Market
 
 The global EdTech market is valued at over **USD 340 billion in 2024** and is expected to grow at a CAGR of 16.5% through 2030 (Grand View Research). Key growth areas include:
+
+*Table 2: Digital Education Technology Market Segments*
 
 | Technology Segment | Global Market Size (2024) | Projected CAGR |
 |---|---|---|
@@ -131,7 +202,7 @@ The global EdTech market is valued at over **USD 340 billion in 2024** and is ex
 | Blockchain in Education | USD 1.2 billion | 43.9% |
 | IoT in Education | USD 15.8 billion | 17.5% |
 
-### 4.3 NYP's Revenue and Funding
+### 5.3 NYP's Revenue and Funding
 
 NYP receives government funding of approximately **S$200–250 million annually** for operations, with additional revenue from CET programmes, industry partnerships, and research grants. By adopting emerging technologies, NYP can:
 
@@ -140,23 +211,117 @@ NYP receives government funding of approximately **S$200–250 million annually*
 - Reduce operational costs through automation and smart systems
 - Strengthen industry partnerships and sponsored research income
 
-### 4.4 Singapore's Digital Economy Context
+### 5.4 Singapore's Digital Economy Context
 
 Singapore's digital economy contributed **S$128.1 billion in 2024**, representing **18.6% of GDP**—a S$12 billion increase from the previous year. The tech workforce reached 214,000, with AI, data, and cybersecurity roles growing fastest. This context provides a strong foundation for NYP to align its technology adoption with national digital economy goals.
 
 ---
 
-## 5. Emerging Technology 1 – Artificial Intelligence (AI)
+## 6. Value Chain Analysis
+
+To ensure that each proposed technology delivers measurable value, our team has mapped NYP's operations to an adapted Porter's Value Chain framework for education. This analysis identifies the primary and support activities where emerging technologies can create the greatest impact.
+
+### 6.1 NYP's Education Value Chain
+
+*Figure 1: NYP Value Chain Model for Education*
+
+```mermaid
+flowchart LR
+    subgraph Primary["Primary Activities"]
+        A["Student Recruitment\n& Admissions"] --> B["Curriculum Design\n& Development"]
+        B --> C["Teaching &\nLearning Delivery"]
+        C --> D["Assessment &\nCertification"]
+        D --> E["Graduate Outcomes\n& Career Placement"]
+    end
+    subgraph Support["Support Activities"]
+        F["Campus Infrastructure & Facility Management"]
+        G["IT Systems & Digital Infrastructure"]
+        H["Human Resource Management & Staff Development"]
+        I["Finance, Administration & Compliance"]
+    end
+    Support -.-> Primary
+```
+
+*Table 3: NYP Value Chain – Primary and Support Activities*
+
+| Activity Type | Activity | Description |
+|---|---|---|
+| **Primary** | Student Recruitment & Admissions | Marketing, outreach, application processing, enrolment |
+| **Primary** | Curriculum Design & Development | Programme creation, industry alignment, content updates |
+| **Primary** | Teaching & Learning Delivery | Classroom instruction, labs, e-learning, assessments |
+| **Primary** | Assessment & Certification | Examinations, grading, credential issuance, verification |
+| **Primary** | Graduate Outcomes & Career Placement | Career services, employer partnerships, alumni engagement |
+| **Support** | Campus Infrastructure | Facility management, energy, space allocation, safety |
+| **Support** | IT Systems & Digital Infrastructure | Networks, LMS, student information systems, cybersecurity |
+| **Support** | Human Resource Management | Faculty recruitment, training, professional development |
+| **Support** | Finance & Administration | Budgeting, procurement, regulatory compliance |
+
+### 6.2 Technology-to-Value-Chain Mapping
+
+Each of the four proposed technologies targets specific value chain activities, ensuring comprehensive coverage and business justification.
+
+*Figure 2: Emerging Technologies Mapped to NYP's Value Chain*
+
+```mermaid
+flowchart TB
+    subgraph VC["NYP Value Chain Activities"]
+        R["Recruitment &\nAdmissions"]
+        CD["Curriculum\nDesign"]
+        TL["Teaching &\nLearning"]
+        AC["Assessment &\nCertification"]
+        GO["Graduate\nOutcomes"]
+        CI["Campus\nInfrastructure"]
+        IT["IT Systems"]
+    end
+
+    AI["🤖 AI"] --> R
+    AI --> CD
+    AI --> TL
+    AI --> AC
+    AI --> GO
+
+    VR["🥽 VR/AR"] --> TL
+    VR --> R
+    VR --> CD
+
+    BC["🔗 Blockchain"] --> AC
+    BC --> GO
+    BC --> IT
+
+    IOT["📡 IoT"] --> CI
+    IOT --> TL
+    IOT --> IT
+```
+
+*Table 4: Technology-to-Value-Chain Mapping*
+
+| Value Chain Activity | AI | VR/AR | Blockchain | IoT |
+|---|---|---|---|---|
+| **Student Recruitment & Admissions** | Predictive enrolment analytics, chatbot enquiry handling | Virtual campus tours for overseas recruitment | – | – |
+| **Curriculum Design & Development** | AI-driven skills gap analysis, industry trend monitoring | VR/AR as a subject of study in Design & Media | – | – |
+| **Teaching & Learning Delivery** | Adaptive learning platforms, personalised content | Virtual labs, AR-enhanced classrooms, simulations | – | Smart classrooms, occupancy-based environment control |
+| **Assessment & Certification** | AI-assisted grading, plagiarism detection | VR performance-based assessments | Blockchain-verified digital credentials, micro-credentials | Automated attendance tracking |
+| **Graduate Outcomes & Career Placement** | AI career matching, skills-to-job mapping | – | Instant employer credential verification, skills portfolio | – |
+| **Campus Infrastructure** | – | – | – | Smart energy management, predictive maintenance, safety |
+| **IT Systems & Digital Infrastructure** | AI model hosting, data analytics pipeline | VR content management | Blockchain platform integration | IoT device management, cybersecurity |
+
+This mapping demonstrates that the four technologies complement each other across the entire value chain, with **AI** providing the broadest coverage across primary activities, **VR/AR** enhancing the core teaching function, **Blockchain** securing the output (credentials), and **IoT** optimising the physical infrastructure that underpins all activities.
+
+---
+
+## 7. Emerging Technology 1 – Artificial Intelligence (AI)
 
 *Section by Clifton (Team Lead)*
 
-### 5.1 Technology Overview
+### 7.1 Technology Overview
 
 Artificial Intelligence (AI) refers to the simulation of human intelligence by computer systems, encompassing machine learning, natural language processing, computer vision, and generative AI. As identified by IMDA in its technology roadmap, AI is one of the most transformative technologies shaping Singapore's digital economy.
 
 In the education sector, AI can be applied across the entire value chain—from student recruitment and enrollment to teaching, assessment, and career placement. The global AI in education market is projected to grow from USD 4.0 billion in 2024 to over USD 30 billion by 2030, at a CAGR of approximately 36%.
 
-### 5.2 Current Challenges Addressed by AI
+### 7.2 Current Challenges Addressed by AI
+
+*Table 5: Current Challenges Addressed by AI*
 
 | Challenge | How AI Addresses It |
 |---|---|
@@ -166,9 +331,25 @@ In the education sector, AI can be applied across the entire value chain—from 
 | Student retention | Predictive analytics identify at-risk students early for timely intervention |
 | Administrative burden | Chatbots and intelligent automation handle routine queries and processes |
 
-### 5.3 How AI Can Improve NYP's Business Processes
+### 7.3 How AI Can Improve NYP's Business Processes
 
-#### 5.3.1 Adaptive Learning Platforms
+*Figure 3: AI-Powered Adaptive Learning Workflow*
+
+```mermaid
+flowchart LR
+    A["Student interacts\nwith LMS"] --> B["AI analyses learning\npatterns & performance"]
+    B --> C{"Student\nstruggling?"}
+    C -->|Yes| D["Provide additional\npractice materials"]
+    C -->|No| E{"Student\nadvanced?"}
+    E -->|Yes| F["Offer challenging\ncontent"]
+    E -->|No| G["Continue standard\nlearning path"]
+    D --> H["Monitor & reassess"]
+    F --> H
+    G --> H
+    H --> A
+```
+
+#### 7.3.1 Adaptive Learning Platforms
 
 AI-powered learning management systems (LMS) can analyze each student's learning patterns, strengths, and weaknesses to deliver personalized content and assessments. For example:
 
@@ -178,27 +359,27 @@ AI-powered learning management systems (LMS) can analyze each student's learning
 
 **Example:** Carnegie Learning's AI-based math tutoring system has shown a 30% improvement in student outcomes in institutions that adopted it.
 
-#### 5.3.2 AI-Powered Administrative Chatbots
+#### 7.3.2 AI-Powered Administrative Chatbots
 
 NYP can deploy conversational AI chatbots to handle student enquiries about course registration, fee payments, exam schedules, and campus facilities. This reduces the workload on administrative staff and provides 24/7 support.
 
 **Estimated Impact:** 60–70% of routine student queries can be resolved by AI chatbots, freeing staff to focus on complex cases.
 
-#### 5.3.3 Predictive Analytics for Student Success
+#### 7.3.3 Predictive Analytics for Student Success
 
 By analyzing historical data on student attendance, grades, engagement, and demographics, AI models can predict which students are at risk of dropping out or failing. Lecturers and counselors can then proactively intervene.
 
 **Example:** Georgia State University in the US uses predictive analytics and has increased graduation rates by 22% since implementation.
 
-#### 5.3.4 AI-Assisted Assessment and Feedback
+#### 7.3.4 AI-Assisted Assessment and Feedback
 
 Generative AI tools can assist lecturers in creating assessments, providing automated feedback on written assignments, and detecting plagiarism more effectively than traditional tools.
 
-#### 5.3.5 Curriculum Analytics
+#### 7.3.5 Curriculum Analytics
 
 AI systems can analyze job market data, industry reports, and employer feedback to recommend curriculum updates that keep NYP's programmes aligned with evolving industry needs.
 
-### 5.4 Disruption to the Digital Economy
+### 7.4 Disruption to the Digital Economy
 
 AI is fundamentally reshaping the education sector and the broader digital economy:
 
@@ -207,9 +388,11 @@ AI is fundamentally reshaping the education sector and the broader digital econo
 - **New Business Models:** AI enables micro-credentialing, competency-based education, and lifelong learning platforms that challenge traditional degree-based models.
 - **Industry Integration:** AI bridges education and industry by enabling real-time skills matching, internship recommendations, and career pathway optimization.
 
-### 5.5 Impacts and Benefits
+### 7.5 Impacts and Benefits
 
 #### Benefits to NYP
+
+*Table 6: AI Benefits to NYP*
 
 | Benefit | Estimated Impact |
 |---|---|
@@ -226,7 +409,9 @@ AI is fundamentally reshaping the education sector and the broader digital econo
 - 24/7 access to AI-powered support services
 - Better career guidance based on skills analysis and market trends
 
-### 5.6 Cost Analysis
+### 7.6 Cost Analysis
+
+*Table 7: AI Cost Analysis*
 
 | Cost Component | Estimated Cost (SGD) | Frequency |
 |---|---|---|
@@ -240,7 +425,17 @@ AI is fundamentally reshaping the education sector and the broader digital econo
 
 **Return on Investment:** Based on improved retention rates (each retained student represents approximately S$8,000–10,000 in tuition fees), retaining an additional 200 students annually would generate S$1.6–2.0 million in additional revenue, exceeding the annual technology investment.
 
-### 5.7 Key Challenges for Adoption
+*Figure 4: AI Adoption ROI Projection (3-Year)*
+
+| Year | Cumulative Investment (S$) | Cumulative Benefits (S$) | Net Position (S$) |
+|---|---|---|---|
+| Year 1 | 825,000 | 500,000 | −325,000 |
+| Year 2 | 1,350,000 | 1,400,000 | +50,000 |
+| Year 3 | 1,875,000 | 2,700,000 | +825,000 |
+
+*Note: Mid-range estimates used. Benefits include retained tuition revenue, administrative cost savings, and improved graduate employability outcomes.*
+
+### 7.7 Key Challenges for Adoption
 
 1. **Data Privacy and PDPA Compliance:** AI systems require access to student data, raising privacy concerns that must be addressed through robust data governance.
 2. **Bias in AI Models:** AI systems trained on historical data may perpetuate biases in student assessment and support allocation.
@@ -250,17 +445,19 @@ AI is fundamentally reshaping the education sector and the broader digital econo
 
 ---
 
-## 6. Emerging Technology 2 – Immersive Media (VR/AR)
+## 8. Emerging Technology 2 – Immersive Media (VR/AR)
 
 *Section by Collin*
 
-### 6.1 Technology Overview
+### 8.1 Technology Overview
 
 Immersive Media encompasses Virtual Reality (VR) and Augmented Reality (AR) technologies that create simulated or enhanced environments for users. VR immerses users in a fully digital environment using headsets, while AR overlays digital information onto the real world through devices like smartphones, tablets, or AR glasses.
 
 IMDA has identified immersive media and advanced interfaces as a key technology trend in its Services and Digital Economy Technology Roadmap. The global VR/AR in education market is valued at approximately USD 6.3 billion in 2024, with a projected CAGR of 18.2%.
 
-### 6.2 Current Challenges Addressed by Immersive Media
+### 8.2 Current Challenges Addressed by Immersive Media
+
+*Table 8: Current Challenges Addressed by VR/AR*
 
 | Challenge | How VR/AR Addresses It |
 |---|---|
@@ -270,9 +467,9 @@ IMDA has identified immersive media and advanced interfaces as a key technology 
 | Geographic constraints | VR enables virtual field trips and remote collaboration |
 | Safety risks in training | Students can practice high-risk procedures without real-world danger |
 
-### 6.3 How VR/AR Can Improve NYP's Business Processes
+### 8.3 How VR/AR Can Improve NYP's Business Processes
 
-#### 6.3.1 Virtual Laboratories and Simulations
+#### 8.3.1 Virtual Laboratories and Simulations
 
 NYP's engineering, applied science, and health sciences schools can use VR to create virtual laboratories where students perform experiments and practice procedures without physical equipment.
 
@@ -284,7 +481,7 @@ NYP's engineering, applied science, and health sciences schools can use VR to cr
 
 **Impact:** Studies show that VR-based training can improve knowledge retention by up to 75% compared to traditional classroom instruction (PwC, 2022).
 
-#### 6.3.2 AR-Enhanced Classroom Learning
+#### 8.3.2 AR-Enhanced Classroom Learning
 
 Augmented Reality can overlay digital information onto physical textbooks, posters, and classroom equipment. For example:
 
@@ -292,19 +489,32 @@ Augmented Reality can overlay digital information onto physical textbooks, poste
 - AR markers on lab equipment display step-by-step operating instructions
 - Interactive AR anatomy models allow students to explore the human body in 3D
 
-#### 6.3.3 Virtual Campus Tours and Recruitment
+#### 8.3.3 Virtual Campus Tours and Recruitment
 
 NYP can use VR to create immersive virtual campus tours for prospective students, particularly those from overseas. This enhances recruitment efforts by allowing potential students to experience NYP's facilities without physical visits.
 
-#### 6.3.4 Collaborative VR Learning Spaces
+#### 8.3.4 Collaborative VR Learning Spaces
 
 Multi-user VR environments enable students to collaborate on projects, conduct virtual meetings, and participate in group simulations regardless of their physical location. This supports NYP's blended learning approach.
 
-#### 6.3.5 Design and Media Programme Enhancement
+#### 8.3.5 Design and Media Programme Enhancement
 
 NYP's School of Design & Media can leverage VR/AR as both a teaching tool and a subject of study, equipping students with skills in immersive content creation—a growing industry demand.
 
-### 6.4 Disruption to the Digital Economy
+### 8.4 Disruption to the Digital Economy
+
+*Figure 5: VR/AR Integration Across NYP Schools*
+
+```mermaid
+flowchart TB
+    VR["VR/AR\nTechnology\nPlatform"]
+    VR --> ENG["School of\nEngineering\n• Virtual engine labs\n• Welding simulations"]
+    VR --> HSS["School of Health\n& Social Sciences\n• Patient care VR\n• Anatomy exploration"]
+    VR --> SAS["School of\nApplied Science\n• Virtual chemistry labs\n• Biology simulations"]
+    VR --> SDM["School of\nDesign & Media\n• VR content creation\n• AR design tools"]
+    VR --> SIT["School of\nInformation Technology\n• VR/AR development\n• UX prototyping"]
+    VR --> SBM["School of Business\nManagement\n• Virtual business\n  simulations"]
+```
 
 Immersive Media is disrupting the education sector and digital economy in several ways:
 
@@ -313,9 +523,11 @@ Immersive Media is disrupting the education sector and digital economy in severa
 - **Transforming Assessment:** VR enables performance-based assessment in simulated real-world scenarios, providing richer evaluation data than traditional exams.
 - **Reshaping Campus Design:** As more learning moves to virtual environments, the physical design and resource allocation of campuses will need to evolve.
 
-### 6.5 Impacts and Benefits
+### 8.5 Impacts and Benefits
 
 #### Benefits to NYP
+
+*Table 9: VR/AR Benefits to NYP*
 
 | Benefit | Estimated Impact |
 |---|---|
@@ -333,7 +545,9 @@ Immersive Media is disrupting the education sector and digital economy in severa
 - Development of future-ready digital skills
 - Ability to learn at their own pace through self-directed VR modules
 
-### 6.6 Cost Analysis
+### 8.6 Cost Analysis
+
+*Table 10: VR/AR Cost Analysis*
 
 | Cost Component | Estimated Cost (SGD) | Frequency |
 |---|---|---|
@@ -349,7 +563,7 @@ Immersive Media is disrupting the education sector and digital economy in severa
 
 **Return on Investment:** Reduced expenditure on physical lab equipment and consumables (estimated S$100,000–200,000 annually) combined with increased enrollment from enhanced programme attractiveness can offset the investment within 2–3 years.
 
-### 6.7 Key Challenges for Adoption
+### 8.7 Key Challenges for Adoption
 
 1. **High Initial Content Development Costs:** Creating high-quality, discipline-specific VR content requires significant investment in development resources and expertise.
 2. **Hardware Lifecycle:** VR headsets and equipment have a limited lifespan and require regular replacement, adding to long-term costs.
@@ -359,17 +573,19 @@ Immersive Media is disrupting the education sector and digital economy in severa
 
 ---
 
-## 7. Emerging Technology 3 – Blockchain-Based Certificate Verification
+## 9. Emerging Technology 3 – Blockchain-Based Certificate Verification
 
 *Section by Declan*
 
-### 7.1 Technology Overview
+### 9.1 Technology Overview
 
 Blockchain is a distributed ledger technology that provides a secure, transparent, and immutable record of transactions. In the context of education, blockchain can be used to issue, store, and verify academic credentials—such as diplomas, transcripts, and competition certificates—in a tamper-proof digital format.
 
 IMDA has identified blockchain and distributed ledger technology as one of the nine key technology trends in its Services and Digital Economy Technology Roadmap. The global blockchain in education market is projected to grow from USD 1.2 billion in 2024 to over USD 10 billion by 2030, at a CAGR of approximately 43.9%.
 
-### 7.2 Current Challenges Addressed by Blockchain
+### 9.2 Current Challenges Addressed by Blockchain
+
+*Table 11: Current Challenges Addressed by Blockchain*
 
 | Challenge | How Blockchain Addresses It |
 |---|---|
@@ -379,9 +595,9 @@ IMDA has identified blockchain and distributed ledger technology as one of the n
 | Limited portability | Digital credentials can be shared globally |
 | Paper-based records | Digital-first approach reduces paper dependency |
 
-### 7.3 How Blockchain Can Improve NYP's Business Processes
+### 9.3 How Blockchain Can Improve NYP's Business Processes
 
-#### 7.3.1 Digital Diploma and Certificate Issuance
+#### 9.3.1 Digital Diploma and Certificate Issuance
 
 NYP can issue all academic credentials—including diplomas, transcripts, competition certificates, and skills badges—as blockchain-verified digital certificates. Each credential is:
 
@@ -392,11 +608,11 @@ NYP can issue all academic credentials—including diplomas, transcripts, compet
 
 **Example:** MIT has been issuing blockchain-based digital diplomas since 2017 using the Blockcerts open standard, allowing graduates to share verifiable credentials with employers instantly.
 
-#### 7.3.2 Instant Employer Verification
+#### 9.3.2 Instant Employer Verification
 
 Employers can verify the authenticity of an NYP graduate's credentials by scanning a QR code or entering a credential ID on a verification portal. This eliminates the need to contact NYP directly and reduces verification time from days or weeks to seconds.
 
-**Process Flow:**
+*Figure 6: Blockchain Certificate Verification Process Flow*
 
 ```mermaid
 flowchart LR
@@ -406,7 +622,7 @@ flowchart LR
     D --> E[Blockchain Confirms Authenticity]
 ```
 
-#### 7.3.3 Micro-Credentials and Skills Badges
+#### 9.3.3 Micro-Credentials and Skills Badges
 
 Beyond traditional diplomas, blockchain enables NYP to issue verifiable micro-credentials for:
 
@@ -416,9 +632,28 @@ Beyond traditional diplomas, blockchain enables NYP to issue verifiable micro-cr
 - Competition awards and hackathon results
 - Industry certification partnerships
 
+*Figure 7: Blockchain Credential Ecosystem*
+
+```mermaid
+flowchart TB
+    NYP["Nanyang Polytechnic\n(Credential Issuer)"]
+    NYP --> DIP["Diplomas &\nTranscripts"]
+    NYP --> MC["Micro-Credentials\n& Skills Badges"]
+    NYP --> COMP["Competition Awards\n& Hackathon Results"]
+    NYP --> CET["CET Programme\nCertificates"]
+    DIP --> BC["Blockchain\nLedger"]
+    MC --> BC
+    COMP --> BC
+    CET --> BC
+    BC --> STU["Student\nDigital Wallet"]
+    STU --> EMP["Employers\n(Instant Verification)"]
+    STU --> UNI["Universities\n(Credit Transfer)"]
+    STU --> GOV["Government Agencies\n(SkillsFuture)"]
+```
+
 This creates a comprehensive, verifiable portfolio of a student's competencies.
 
-#### 7.3.4 Academic Record Management
+#### 9.3.4 Academic Record Management
 
 A blockchain-based system can maintain a complete, tamper-proof record of each student's academic journey, including:
 
@@ -427,11 +662,11 @@ A blockchain-based system can maintain a complete, tamper-proof record of each s
 - Co-curricular activities
 - Industry attachments and internships
 
-#### 7.3.5 Cross-Institutional Credit Transfer
+#### 9.3.5 Cross-Institutional Credit Transfer
 
 Blockchain can facilitate seamless credit recognition between NYP and partner institutions (local universities, overseas institutions) by providing a trusted, standardized record of completed coursework.
 
-### 7.4 Disruption to the Digital Economy
+### 9.4 Disruption to the Digital Economy
 
 Blockchain-based credentials are disrupting the education sector and digital economy:
 
@@ -440,9 +675,11 @@ Blockchain-based credentials are disrupting the education sector and digital eco
 - **Skills-Based Economy:** Verifiable, granular credentials support the shift from degree-based to skills-based hiring, transforming labor markets.
 - **Global Mobility:** Blockchain credentials are borderless, supporting international student and worker mobility—critical for Singapore as a global education and talent hub.
 
-### 7.5 Impacts and Benefits
+### 9.5 Impacts and Benefits
 
 #### Benefits to NYP
+
+*Table 12: Blockchain Benefits to NYP*
 
 | Benefit | Estimated Impact |
 |---|---|
@@ -467,7 +704,9 @@ Blockchain-based credentials are disrupting the education sector and digital eco
 - Greater confidence in credential authenticity
 - Access to detailed skills and competency data
 
-### 7.6 Cost Analysis
+### 9.6 Cost Analysis
+
+*Table 13: Blockchain Cost Analysis*
 
 | Cost Component | Estimated Cost (SGD) | Frequency |
 |---|---|---|
@@ -482,7 +721,7 @@ Blockchain-based credentials are disrupting the education sector and digital eco
 
 **Return on Investment:** Savings from reduced paper printing (S$50,000–100,000/year), eliminated manual verification labor (estimated 2–3 FTE staff hours at S$80,000–120,000/year), and enhanced enrollment from institutional reputation improvements can achieve ROI within 1–2 years.
 
-### 7.7 Key Challenges for Adoption
+### 9.7 Key Challenges for Adoption
 
 1. **Technology Maturity:** Blockchain platforms for education are still evolving, and standards for educational credentials on blockchain are not yet fully established.
 2. **Integration with Legacy Systems:** Connecting blockchain platforms with NYP's existing student information systems requires careful planning and middleware development.
@@ -492,17 +731,19 @@ Blockchain-based credentials are disrupting the education sector and digital eco
 
 ---
 
-## 8. Emerging Technology 4 – Internet of Things (IoT) / Smart Campus
+## 10. Emerging Technology 4 – Internet of Things (IoT) / Smart Campus
 
 *Section by Alex*
 
-### 8.1 Technology Overview
+### 10.1 Technology Overview
 
 The Internet of Things (IoT) refers to a network of interconnected physical devices embedded with sensors, software, and connectivity that enables them to collect and exchange data. In an educational setting, IoT enables the creation of a "Smart Campus"—an intelligent campus ecosystem that optimizes operations, enhances the learning environment, and improves safety.
 
 IMDA has identified IoT as one of the nine key technology trends in its Services and Digital Economy Technology Roadmap. The global IoT in education market is projected to reach approximately USD 20 billion by 2025, with a CAGR of 17.5%.
 
-### 8.2 Current Challenges Addressed by IoT
+### 10.2 Current Challenges Addressed by IoT
+
+*Table 14: Current Challenges Addressed by IoT*
 
 | Challenge | How IoT Addresses It |
 |---|---|
@@ -512,9 +753,44 @@ IMDA has identified IoT as one of the nine key technology trends in its Services
 | Campus safety | IoT-based surveillance and alert systems |
 | Facility maintenance | Predictive maintenance through sensor monitoring |
 
-### 8.3 How IoT Can Improve NYP's Business Processes
+### 10.3 How IoT Can Improve NYP's Business Processes
 
-#### 8.3.1 Smart Energy Management
+*Figure 8: IoT Smart Campus Architecture*
+
+```mermaid
+flowchart TB
+    subgraph Sensors["IoT Sensor Layer"]
+        S1["Motion &\nOccupancy Sensors"]
+        S2["Temperature &\nHumidity Sensors"]
+        S3["Energy\nMeters"]
+        S4["RFID / Bluetooth\nBeacons"]
+        S5["Surveillance\nCameras"]
+        S6["Environmental\nSensors"]
+    end
+
+    subgraph Network["Network & Edge Layer"]
+        N1["Wi-Fi 6\nInfrastructure"]
+        N2["Edge Computing\nGateways"]
+    end
+
+    subgraph Platform["IoT Platform & Analytics"]
+        P1["Central IoT\nDashboard"]
+        P2["Data Analytics\n& AI Engine"]
+        P3["Automated\nControl Systems"]
+    end
+
+    subgraph Apps["Applications"]
+        A1["Smart Energy\nManagement"]
+        A2["Space & Room\nManagement"]
+        A3["Automated\nAttendance"]
+        A4["Predictive\nMaintenance"]
+        A5["Campus Safety\n& Alerts"]
+    end
+
+    Sensors --> Network --> Platform --> Apps
+```
+
+#### 10.3.1 Smart Energy Management
 
 IoT sensors deployed across NYP's campus can monitor and automatically control:
 
@@ -524,7 +800,7 @@ IoT sensors deployed across NYP's campus can monitor and automatically control:
 
 **Estimated Impact:** IoT-enabled energy management systems typically deliver **30–40% reduction in energy costs** for educational campuses.
 
-#### 8.3.2 Smart Classroom and Space Management
+#### 10.3.2 Smart Classroom and Space Management
 
 Occupancy sensors and booking systems enable:
 
@@ -535,7 +811,7 @@ Occupancy sensors and booking systems enable:
 
 **Example:** Smart campus implementations at institutions like Singapore Polytechnic have demonstrated significant improvements in space utilization rates through IoT-based room management.
 
-#### 8.3.3 Automated Attendance and Access Control
+#### 10.3.3 Automated Attendance and Access Control
 
 IoT-based attendance systems using RFID cards, Bluetooth beacons, or facial recognition can:
 
@@ -546,7 +822,7 @@ IoT-based attendance systems using RFID cards, Bluetooth beacons, or facial reco
 
 This eliminates manual attendance taking, saves approximately 5–10 minutes per class session, and provides accurate data for student engagement analysis.
 
-#### 8.3.4 Predictive Facility Maintenance
+#### 10.3.4 Predictive Facility Maintenance
 
 IoT sensors on critical infrastructure (elevators, HVAC systems, water systems, electrical panels) enable:
 
@@ -555,7 +831,7 @@ IoT sensors on critical infrastructure (elevators, HVAC systems, water systems, 
 - Automated maintenance scheduling based on actual wear rather than fixed intervals
 - Reduced downtime and repair costs
 
-#### 8.3.5 Campus Safety and Emergency Response
+#### 10.3.5 Campus Safety and Emergency Response
 
 IoT-connected devices enhance campus safety through:
 
@@ -564,7 +840,7 @@ IoT-connected devices enhance campus safety through:
 - Emergency alert systems that can pinpoint location of incidents
 - Automated building evacuation guidance systems
 
-### 8.4 Disruption to the Digital Economy
+### 10.4 Disruption to the Digital Economy
 
 IoT is disrupting the education sector and digital economy in several ways:
 
@@ -573,9 +849,11 @@ IoT is disrupting the education sector and digital economy in several ways:
 - **New Learning Paradigms:** IoT itself becomes a learning tool—engineering and IT students can study real IoT deployments on their own campus.
 - **Connected Ecosystem:** IoT enables seamless integration between physical and digital campus experiences, supporting hybrid learning models.
 
-### 8.5 Impacts and Benefits
+### 10.5 Impacts and Benefits
 
 #### Benefits to NYP
+
+*Table 15: IoT Benefits to NYP*
 
 | Benefit | Estimated Impact |
 |---|---|
@@ -593,7 +871,9 @@ IoT is disrupting the education sector and digital economy in several ways:
 - Enhanced safety and security
 - Exposure to real-world IoT technology applications
 
-### 8.6 Cost Analysis
+### 10.6 Cost Analysis
+
+*Table 16: IoT Cost Analysis*
 
 | Cost Component | Estimated Cost (SGD) | Frequency |
 |---|---|---|
@@ -609,7 +889,7 @@ IoT is disrupting the education sector and digital economy in several ways:
 
 **Return on Investment:** Energy savings alone (estimated S$300,000–500,000 annually based on typical 30–40% reduction on a large campus) can offset the annual recurring costs. Additional savings from predictive maintenance and improved space utilization accelerate ROI to within 1–2 years.
 
-### 8.7 Key Challenges for Adoption
+### 10.7 Key Challenges for Adoption
 
 1. **High Initial Infrastructure Costs:** Deploying sensors and upgrading network infrastructure across a large campus requires significant upfront investment.
 2. **Cybersecurity Risks:** IoT devices expand the attack surface and must be secured against hacking, data breaches, and unauthorized access. This is especially critical given Singapore's stringent data protection requirements.
@@ -619,11 +899,13 @@ IoT is disrupting the education sector and digital economy in several ways:
 
 ---
 
-## 9. Conclusion
+## 11. Conclusion
 
-### 9.1 Summary of Technology Recommendations
+### 11.1 Summary of Technology Recommendations
 
 This proposal has examined four emerging technologies identified in IMDA's Services and Digital Economy Technology Roadmap and their potential application at Nanyang Polytechnic:
+
+*Table 17: Consolidated Technology Investment Summary*
 
 | Technology | Primary Impact Area | Year 1 Investment | Annual Recurring | ROI Timeline |
 |---|---|---|---|---|
@@ -633,9 +915,37 @@ This proposal has examined four emerging technologies identified in IMDA's Servi
 | IoT | Campus Operations, Energy | S$375K–750K | S$150K–300K | 1–2 years |
 | **Total** | | **S$1.48M–2.98M** | **S$655K–1.31M** | |
 
-### 9.2 Recommended Implementation Roadmap
+### 11.2 Recommended Implementation Roadmap
 
 We recommend a phased approach to technology adoption:
+
+*Figure 9: Phased Implementation Roadmap*
+
+```mermaid
+gantt
+    title NYP Technology Adoption Roadmap
+    dateFormat YYYY-Q
+    axisFormat %Y-Q%q
+
+    section AI
+    AI Chatbots & Predictive Analytics   :a1, 2026-Q3, 180d
+    Adaptive Learning Platforms          :a2, after a1, 180d
+    AI Curriculum Analytics              :a3, after a2, 180d
+
+    section VR/AR
+    VR Module Development (Healthcare, Engineering) :v1, 2027-Q1, 270d
+    Comprehensive VR/AR Integration     :v2, after v1, 270d
+
+    section Blockchain
+    Blockchain Certificate Pilot        :b1, 2026-Q3, 180d
+    Scale to All Credentials            :b2, after b1, 180d
+    Full Credential Ecosystem           :b3, after b2, 180d
+
+    section IoT
+    IoT Pilot (One Building)            :i1, 2026-Q3, 180d
+    Expand to Additional Buildings      :i2, after i1, 270d
+    Full Campus Deployment              :i3, after i2, 180d
+```
 
 **Phase 1 (Year 1):** Deploy AI chatbots and predictive analytics; begin blockchain certificate pilot for graduating cohort; install IoT sensors in one building as a pilot.
 
@@ -643,7 +953,21 @@ We recommend a phased approach to technology adoption:
 
 **Phase 3 (Year 3):** Full campus IoT deployment; comprehensive VR/AR integration across all schools; AI-driven curriculum analytics; full blockchain credential ecosystem.
 
-### 9.3 Alignment with National Goals
+*Figure 10: Total Cost of Ownership – All Technologies (3-Year)*
+
+| Category | Year 1 (S$) | Year 2 (S$) | Year 3 (S$) | 3-Year Total (S$) |
+|---|---|---|---|---|
+| AI | 825,000 | 525,000 | 525,000 | 1,875,000 |
+| VR/AR | 505,000 | 167,500 | 167,500 | 840,000 |
+| Blockchain | 332,500 | 62,500 | 62,500 | 457,500 |
+| IoT | 562,500 | 225,000 | 225,000 | 1,012,500 |
+| **Total** | **2,225,000** | **980,000** | **980,000** | **4,185,000** |
+| **Cumulative Benefits** | **1,200,000** | **2,800,000** | **4,600,000** | **4,600,000** |
+| **Net Position** | **−1,025,000** | **+795,000** | **+2,595,000** | **+415,000** |
+
+*Note: Mid-range cost estimates used. Benefits include energy savings, retained tuition revenue, reduced administrative costs, and operational efficiencies.*
+
+### 11.3 Alignment with National Goals
 
 These technology adoptions align with:
 
@@ -656,7 +980,7 @@ By embracing these emerging technologies, Nanyang Polytechnic can enhance its ed
 
 ---
 
-## 10. References
+## 12. References
 
 1. IMDA. (2024). *Services and Digital Economy Technology Roadmap*. Infocomm Media Development Authority. https://www.imda.gov.sg/about-imda/research-and-statistics/sgdigital/services-and-digital-economy-technology-roadmap
 
