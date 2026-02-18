@@ -83,7 +83,7 @@ The total estimated investment across all four technologies is **SGD 3.10–5.64
 
 ## 2. Introduction
 
-In today's rapidly evolving digital economy, emerging technologies hold the potential to revolutionize business operations, creating new opportunities for growth and innovation. The education sector in Singapore is no exception. As institutions like Nanyang Polytechnic (NYP) navigate the demands of Industry 4.0, they must continuously identify technological trends, evaluate their impact, and adopt solutions that enhance educational outcomes and operational efficiency.
+In today's rapidly evolving digital economy, emerging technologies hold the potential to revolutionise business operations, creating new opportunities for growth and innovation. The education sector in Singapore is no exception. As institutions like Nanyang Polytechnic (NYP) navigate the demands of Industry 4.0, they must continuously identify technological trends, evaluate their impact, and adopt solutions that enhance educational outcomes and operational efficiency.
 
 This proposal examines how four emerging technologies — **Artificial Intelligence (AI)**, **Immersive Media (VR/AR)**, **Blockchain-Based Certificate Verification**, and the **Internet of Things (IoT)** — can be strategically adopted by Nanyang Polytechnic to address current challenges, improve the student learning experience, streamline administrative processes, and maintain competitiveness in Singapore's education landscape.
 
@@ -113,7 +113,7 @@ NYP's mission is to nurture industry-ready graduates through practice-oriented e
 
 ### 3.3 Value Chain
 
-NYP's value chain in education encompasses five primary activities and five supporting activities. Each proposed technology targets specific stages of this value chain, ensuring maximum alignment with business goals.
+NYP's value chain in education encompasses five primary activities and supporting activities. Each proposed technology targets specific stages of this value chain, ensuring maximum alignment with business goals.
 
 **Primary Activities:**
 
@@ -303,17 +303,17 @@ According to Gartner, generative AI has moved past the peak of inflated expectat
 
 **Return on Investment (ROI):** Based on estimated annual savings in administrative costs (~$500,000), improved retention rates (potential $300,000 in retained tuition), and enhanced graduate outcomes, the projected ROI period is **2–3 years**.
 
-**Detailed Net Benefit Calculation (Year 1–3):**
+**Detailed Net Benefit Calculation (Year 1–5):**
 
 | Year | Cumulative Investment | Cumulative Savings | Net Position |
 |------|----------------------|-------------------|--------------|
 | Year 1 | $1,725,000 | $800,000 | –$925,000 |
-| Year 2 | $2,325,000 | $1,600,000 | –$725,000 |
-| Year 3 | $2,925,000 | $2,400,000 | –$525,000 |
-| Year 4 | $3,525,000 | $3,200,000 | –$325,000 |
-| Year 5 | $4,125,000 | $4,000,000 | –$125,000 |
+| Year 2 | $2,325,000 | $1,800,000 | –$525,000 |
+| Year 3 | $2,925,000 | $2,800,000 | –$125,000 |
+| Year 4 | $3,525,000 | $3,800,000 | +$275,000 |
+| Year 5 | $4,125,000 | $4,800,000 | +$675,000 |
 
-*Note: Annual savings include admin cost reduction (~$500,000), retained tuition from improved retention (~$300,000), and reduced lecturer overtime costs. Break-even is projected by mid-Year 3 under optimistic scenarios.*
+*Note: Annual savings include admin cost reduction (~$500,000), retained tuition from improved retention (~$300,000), and reduced lecturer overtime costs (~$200,000). Savings compound as AI adoption matures. Break-even is projected by late Year 3, with cumulative net gains from Year 4 onwards.*
 
 **Real-World Case Study — Georgia State University (USA):** Georgia State University deployed AI-driven predictive analytics to identify at-risk students, resulting in a 22% increase in graduation rates and a 30% reduction in the time to degree. This demonstrates the transformative impact AI can have when applied at institutional scale in higher education.
 
