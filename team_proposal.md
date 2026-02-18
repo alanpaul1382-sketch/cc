@@ -95,10 +95,10 @@ This proposal evaluates how four emerging technologies — **Artificial Intellig
 
 **Key findings:**
 
-- **AI** can reduce administrative costs by SGD 2–4 million per year and improve student retention by 10–15 % through adaptive learning and predictive analytics.
+- **AI** can reduce administrative costs by SGD 2–4 million per year and improve student retention by 10–15% through adaptive learning and predictive analytics.
 - **VR/AR** can expand practical training capacity beyond physical lab constraints, with the potential to generate SGD 2–5 million per year in B2B licensing revenue from industry training simulations.
-- **5G and Edge Computing** can serve as the foundational infrastructure for a smart campus, lowering energy costs by 10–15 % and enabling real-time, high-bandwidth applications for VR and AI.
-- **Blockchain** can reduce credential verification processing time from days to seconds, cut manual verification labour by 50–70 %, and position NYP as a leader in tamper-proof digital credentialing through Singapore's OpenCerts ecosystem.
+- **5G and Edge Computing** can serve as the foundational infrastructure for a smart campus, lowering energy costs by 10–15% and enabling real-time, high-bandwidth applications for VR and AI.
+- **Blockchain** can reduce credential verification processing time from days to seconds, cut manual verification labour by 50–70%, and position NYP as a leader in tamper-proof digital credentialing through Singapore's OpenCerts ecosystem.
 
 The total estimated Year 1 investment across all four technologies ranges from SGD 8.8–17.1 million, with projected annual returns of SGD 10.5–23 million in combined revenue and cost savings, yielding a breakeven within 1–2 years for most initiatives. A phased three-year implementation roadmap is proposed to manage risk, and a technology synergy analysis demonstrates how the four solutions reinforce one another to form a cohesive smart-campus ecosystem.
 
@@ -231,16 +231,16 @@ Singapore faces environmental challenges including climate change, energy consum
 
 Singapore's education industry is a significant contributor to the national economy (MOE, 2024):
 
-- **Total education expenditure:** The Singapore government allocates approximately SGD 13 billion annually to education (approximately 15–20 % of the national budget), making it the second-largest area of government spending.
+- **Total education expenditure:** The Singapore government allocates approximately SGD 13 billion annually to education (approximately 15–20% of the national budget), making it the second-largest area of government spending.
 - **Polytechnic sector:** The five polytechnics collectively enroll approximately 70,000 full-time students.
-- **NYP's share:** With approximately 15,000 students, NYP captures approximately 21 % of the polytechnic market.
+- **NYP's share:** With approximately 15,000 students, NYP captures approximately 21% of the polytechnic market.
 
 #### 4.3.2 EdTech Market Growth
 
 The global Education Technology (EdTech) market is experiencing rapid growth (HolonIQ, 2024):
 
-- **Global EdTech market size:** Estimated at USD 340 billion in 2024, projected to reach USD 605 billion by 2027 (CAGR of approximately 16 %).
-- **Asia-Pacific EdTech market:** Estimated at USD 115 billion in 2024, growing at approximately 18 % CAGR.
+- **Global EdTech market size:** Estimated at USD 340 billion in 2024, projected to reach USD 605 billion by 2027 (CAGR of approximately 16%).
+- **Asia-Pacific EdTech market:** Estimated at USD 115 billion in 2024, growing at approximately 18% CAGR.
 - **Singapore EdTech market:** Estimated at SGD 1.5–2 billion, driven by government support through SkillsFuture and IMDA initiatives.
 
 #### 4.3.3 Potential Revenue Streams for NYP
@@ -266,10 +266,10 @@ Beyond revenue generation, technology adoption can yield significant cost saving
 
 | Technology | Saving Mechanism | Value Chain Link | Estimated Saving |
 |:-----------|:-----------------|:-----------------|:-----------------|
-| AI | Administrative automation | Student Support; Recruitment | 10–20 % reduction (SGD 2–4 M/year) |
-| VR/AR | Replacing physical lab equipment | Teaching & Learning | 15–25 % reduction in lab maintenance |
-| Blockchain | Reducing manual verification | Assessment & Certification | 50–70 % reduction in processing time |
-| 5G / Edge | Campus energy management | Campus Operations | 10–15 % reduction in energy costs |
+| AI | Administrative automation | Student Support; Recruitment | 10–20% reduction (SGD 2–4 M/year) |
+| VR/AR | Replacing physical lab equipment | Teaching & Learning | 15–25% reduction in lab maintenance |
+| Blockchain | Reducing manual verification | Assessment & Certification | 50–70% reduction in processing time |
+| 5G / Edge | Campus energy management | Campus Operations | 10–15% reduction in energy costs |
 
 ---
 
@@ -307,7 +307,7 @@ Artificial Intelligence (AI) refers to the simulation of human intelligence by m
 - **Computer Vision:** Enabling computers to interpret and analyze visual information.
 - **Generative AI:** AI models (such as large language models) that can create content, answer questions, and assist in creative tasks.
 
-According to the IMDA Technology Roadmap, AI is identified as a critical enabler for Singapore's digital economy, with applications spanning all industry sectors (IMDA, 2024). Gartner has consistently ranked AI as a top strategic technology trend, projecting that by 2026, more than 80 % of enterprises will have used generative AI APIs or deployed generative AI-enabled applications (Gartner, 2024).
+According to the IMDA Technology Roadmap, AI is identified as a critical enabler for Singapore's digital economy, with applications spanning all industry sectors (IMDA, 2024). Gartner has consistently ranked AI as a top strategic technology trend, projecting that by 2026, more than 80% of enterprises will have used generative AI APIs or deployed generative AI-enabled applications (Gartner, 2024).
 
 ##### How AI Can Improve NYP's Business Processes
 
@@ -349,7 +349,7 @@ NYP can deploy AI chatbots to handle routine student inquiries regarding:
 - Campus facilities and event schedules.
 - IT support and troubleshooting.
 
-This would reduce the workload on administrative staff and provide 24/7 support to students. *Example:* Georgia State University in the United States deployed an AI chatbot called "Pounce," which reduced summer enrollment melt by 21 % by proactively engaging with admitted students (Georgia State University, 2021).
+This would reduce the workload on administrative staff and provide 24/7 support to students. *Example:* Georgia State University in the United States deployed an AI chatbot called "Pounce," which reduced summer enrollment melt by 21% by proactively engaging with admitted students (Georgia State University, 2021).
 
 **c) Automated Assessment and Feedback** *(Value chain: Assessment & Certification)*
 
@@ -376,7 +376,7 @@ AI is fundamentally reshaping the education sector and the broader digital econo
 
 **Benefits to NYP:**
 
-- Improved student outcomes and retention rates (estimated 10–15 % improvement).
+- Improved student outcomes and retention rates (estimated 10–15% improvement).
 - Reduced administrative costs through automation (SGD 2–4 million/year).
 - Enhanced competitive positioning as an AI-forward institution.
 - New revenue from AI-powered CET courses (SGD 5–10 million/year).
@@ -412,7 +412,7 @@ AI is fundamentally reshaping the education sector and the broader digital econo
 | 4 | 5,925,000 | 17,500,000 | +11,575,000 |
 | 5 | 6,900,000 | 22,500,000 | +15,600,000 |
 
-*Breakeven is achieved within Year 2. The five-year net return is approximately SGD 15.6 million, representing a 226 % return on total investment.*
+*Breakeven is achieved within Year 2. The five-year net return is approximately SGD 15.6 million, representing a 226% return on total investment.*
 
 ##### Key Challenges for Adoption
 
@@ -500,14 +500,14 @@ Immersive Media is disrupting education and training markets in several ways:
 - **Remote learning evolution:** VR/AR goes beyond video conferencing by enabling truly immersive remote learning experiences, making location irrelevant for hands-on training.
 - **Reduction in physical infrastructure needs:** Virtual labs can reduce the need for expensive physical equipment and facilities.
 - **New content creation industry:** The demand for VR/AR educational content is creating new markets for content developers, 3D artists, and immersive experience designers.
-- **Skills gap bridging:** VR/AR training is proven to improve knowledge retention by 75 % compared to traditional methods (PwC, 2022), making it a powerful tool for rapid upskilling.
+- **Skills gap bridging:** VR/AR training is proven to improve knowledge retention by 75% compared to traditional methods (PwC, 2022), making it a powerful tool for rapid upskilling.
 
 ##### Impacts and Benefits
 
 **Benefits to NYP:**
 
 - Expanded capacity for practical training without physical lab constraints.
-- Reduced equipment maintenance and replacement costs (15–25 % reduction).
+- Reduced equipment maintenance and replacement costs (15–25% reduction).
 - Differentiation from competing polytechnics.
 - New B2B revenue from licensing VR training content to industry partners (SGD 2–5 million/year).
 - Enhanced student recruitment through virtual campus experiences.
@@ -545,7 +545,7 @@ Immersive Media is disrupting education and training markets in several ways:
 | 4 | 4,800,000 | 12,000,000 | +7,200,000 |
 | 5 | 5,200,000 | 15,500,000 | +10,300,000 |
 
-*Breakeven is achieved within Year 2. The five-year net return is approximately SGD 10.3 million, representing a 198 % return on total investment.*
+*Breakeven is achieved within Year 2. The five-year net return is approximately SGD 10.3 million, representing a 198% return on total investment.*
 
 ##### Key Challenges for Adoption
 
@@ -568,7 +568,7 @@ Immersive Media is disrupting education and training markets in several ways:
 - **Massive device connectivity:** Support for up to 1 million devices per square kilometre.
 - **Network slicing:** The ability to create multiple virtual networks on a single physical infrastructure.
 
-**Edge Computing** brings computation and data storage closer to the sources of data (i.e., at the "edge" of the network), rather than relying on centralized cloud data centres. This reduces latency, improves response times, and reduces bandwidth consumption.
+**Edge Computing** brings computation and data storage closer to the sources of data (i.e., at the "edge" of the network), rather than relying on centralised cloud data centres. This reduces latency, improves response times, and reduces bandwidth consumption.
 
 The IMDA Technology Roadmap highlights 5G as a foundational infrastructure for Singapore's digital economy. Singapore achieved nationwide standalone 5G coverage in 2025 through operators Singtel and StarHub (Singtel, 2025; StarHub, 2025). The combination of 5G and edge computing is identified as a key enabler for IoT, immersive media, and smart campus applications.
 
@@ -606,10 +606,10 @@ The IMDA Technology Roadmap highlights 5G as a foundational infrastructure for S
 5G and edge computing can transform NYP into a truly smart campus:
 
 - **IoT sensor networks:** Deploy thousands of IoT sensors across the campus for real-time monitoring of air quality, temperature, lighting, and occupancy. Edge computing processes this data locally, enabling instant adjustments to building management systems.
-- **Smart energy management:** AI-powered energy optimization systems running on edge servers can reduce campus energy consumption by 10–15 %, contributing to Singapore's sustainability goals.
+- **Smart energy management:** AI-powered energy optimization systems running on edge servers can reduce campus energy consumption by 10–15%, contributing to Singapore's sustainability goals.
 - **Smart parking and navigation:** Real-time campus navigation and parking availability through 5G-connected systems.
 
-*Example:* The National University of Singapore (NUS) has implemented smart building systems that use IoT sensors and edge computing to optimize energy usage, achieving 15 % energy savings across its campus (NUS, 2024).
+*Example:* The National University of Singapore (NUS) has implemented smart building systems that use IoT sensors and edge computing to optimize energy usage, achieving 15% energy savings across its campus (NUS, 2024).
 
 **b) Enhanced Online and Hybrid Learning** *(Value chain: Teaching & Learning Delivery)*
 
@@ -641,7 +641,7 @@ The IMDA Technology Roadmap highlights 5G as a foundational infrastructure for S
 5G and edge computing are transforming the digital economy by:
 
 - **Enabling the IoT ecosystem:** 5G's massive device connectivity enables the deployment of billions of IoT devices, creating new data-driven business models.
-- **Decentralizing computing:** Edge computing shifts processing from centralized clouds to distributed edge nodes, enabling real-time applications and reducing data transfer costs.
+- **Decentralising computing:** Edge computing shifts processing from centralised clouds to distributed edge nodes, enabling real-time applications and reducing data transfer costs.
 - **Creating new service models:** Network slicing allows operators to offer customized network services (e.g., a dedicated low-latency slice for VR applications, a high-bandwidth slice for video streaming).
 - **Accelerating Industry 4.0:** 5G-connected smart factories, autonomous vehicles, and remote surgery are becoming reality, fundamentally changing industries and creating demand for new skills — skills that NYP must prepare its students for.
 
@@ -650,7 +650,7 @@ The IMDA Technology Roadmap highlights 5G as a foundational infrastructure for S
 **Benefits to NYP:**
 
 - Modernized campus infrastructure supporting next-generation applications.
-- Reduced energy costs through smart building management (10–15 % savings).
+- Reduced energy costs through smart building management (10–15% savings).
 - Enhanced competitiveness as a technology-forward institution.
 - Foundational infrastructure for VR/AR, AI, and IoT initiatives.
 - Improved campus safety and security.
@@ -688,7 +688,7 @@ The IMDA Technology Roadmap highlights 5G as a foundational infrastructure for S
 | 4 | 6,650,000 | 8,500,000 | +1,850,000 |
 | 5 | 7,200,000 | 12,000,000 | +4,800,000 |
 
-*Breakeven is achieved in Year 3–4. The five-year net return is approximately SGD 4.8 million, representing a 67 % return on total investment. The longer payback reflects the infrastructure nature of this investment, which enables and accelerates the ROI of the other three technologies.*
+*Breakeven is achieved in Year 3–4. The five-year net return is approximately SGD 4.8 million, representing a 67% return on total investment. The longer payback reflects the infrastructure nature of this investment, which enables and accelerates the ROI of the other three technologies.*
 
 ##### Key Challenges for Adoption
 
@@ -706,7 +706,7 @@ The IMDA Technology Roadmap highlights 5G as a foundational infrastructure for S
 
 Blockchain is a distributed, immutable digital ledger technology that records transactions across a network of computers (GovTech, 2024). Key characteristics include:
 
-- **Decentralization:** No single point of control or failure.
+- **Decentralisation:** No single point of control or failure.
 - **Immutability:** Once data is recorded, it cannot be altered or deleted.
 - **Transparency:** All participants can verify the data.
 - **Smart Contracts:** Self-executing contracts with terms directly written into code.
@@ -796,7 +796,7 @@ Blockchain-based credential verification is disrupting the education sector and 
 
 - **Elimination of credential fraud:** The global cost of credential fraud is estimated at billions of dollars annually. Blockchain makes fake certificates immediately detectable.
 - **Portable, self-sovereign credentials:** Students own their credentials and can share them instantly, removing the institution as a bottleneck in the verification process.
-- **Decentralized education ecosystem:** Blockchain enables recognition of learning from multiple sources (formal education, online courses, industry certifications) in a unified, verifiable format.
+- **Decentralised education ecosystem:** Blockchain enables recognition of learning from multiple sources (formal education, online courses, industry certifications) in a unified, verifiable format.
 - **Cross-border credential recognition:** Blockchain credentials can be verified across countries, facilitating global mobility for graduates.
 - **New market for credential verification services:** The global digital credentials market is projected to reach USD 2.3 billion by 2027.
 
@@ -804,7 +804,7 @@ Blockchain-based credential verification is disrupting the education sector and 
 
 **Benefits to NYP:**
 
-- Elimination of manual verification workload (50–70 % reduction in admin time).
+- Elimination of manual verification workload (50–70% reduction in admin time).
 - Enhanced institutional reputation through tamper-proof credentials.
 - First-mover advantage in comprehensive blockchain credentialing.
 - Revenue from offering verification services to other institutions (SGD 0.5–1 million/year).
@@ -851,7 +851,7 @@ Blockchain-based credential verification is disrupting the education sector and 
 | 4 | 1,695,000 | 2,650,000 | +955,000 |
 | 5 | 1,810,000 | 3,400,000 | +1,590,000 |
 
-*Breakeven is achieved within Year 3. The five-year net return is approximately SGD 1.59 million, representing an 88 % return on total investment. The relatively modest absolute figures reflect the low cost of blockchain implementation; however, the strategic value — institutional credibility, fraud elimination, and alignment with national initiatives — significantly exceeds the financial return.*
+*Breakeven is achieved within Year 3. The five-year net return is approximately SGD 1.59 million, representing an 88% return on total investment. The relatively modest absolute figures reflect the low cost of blockchain implementation; however, the strategic value — institutional credibility, fraud elimination, and alignment with national initiatives — significantly exceeds the financial return.*
 
 ##### Key Challenges for Adoption
 
