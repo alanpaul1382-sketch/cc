@@ -101,7 +101,7 @@ NYP faces significant challenges including curriculum relevance gaps, diverse st
 
 - **Internet of Things (IoT) / Smart Campus:** IoT-enabled campus systems can reduce energy costs by 30–40%, improve space utilisation by 20–30%, and enable predictive maintenance with 15–25% cost reduction. Year 1 investment: S$375K–750K.
 
-**Total Investment:** S$1.48M–2.98M in Year 1, with annual recurring costs of S$655K–1.31M. All four technologies are projected to achieve return on investment within 1–3 years through cost savings, improved retention revenue, and operational efficiency gains.
+**Total Investment:** S$1.48M–2.98M in Year 1, with annual recurring costs of S$655K–1.31M. All four technologies are projected to achieve return on investment within 1–3 years through cost savings, improved retention revenue, and operational efficiency gains. Refer to Table 17 in the Conclusion for a detailed consolidated cost breakdown.
 
 **Strategic Alignment:** These technology adoptions align with IMDA's Digital Enterprise Blueprint, Singapore's Smart Nation Initiative, the SkillsFuture Movement, and the Green Plan 2030, positioning NYP as a leader in technology-enabled education.
 
@@ -924,25 +924,25 @@ We recommend a phased approach to technology adoption:
 ```mermaid
 gantt
     title NYP Technology Adoption Roadmap
-    dateFormat YYYY-Q
-    axisFormat %Y-Q%q
+    dateFormat YYYY-MM-DD
+    axisFormat %Y
 
     section AI
-    AI Chatbots & Predictive Analytics   :a1, 2026-Q3, 180d
+    AI Chatbots & Predictive Analytics   :a1, 2026-07-01, 180d
     Adaptive Learning Platforms          :a2, after a1, 180d
     AI Curriculum Analytics              :a3, after a2, 180d
 
     section VR/AR
-    VR Module Development (Healthcare, Engineering) :v1, 2027-Q1, 270d
+    VR Module Development (Healthcare, Engineering) :v1, 2027-01-01, 270d
     Comprehensive VR/AR Integration     :v2, after v1, 270d
 
     section Blockchain
-    Blockchain Certificate Pilot        :b1, 2026-Q3, 180d
+    Blockchain Certificate Pilot        :b1, 2026-07-01, 180d
     Scale to All Credentials            :b2, after b1, 180d
     Full Credential Ecosystem           :b3, after b2, 180d
 
     section IoT
-    IoT Pilot (One Building)            :i1, 2026-Q3, 180d
+    IoT Pilot (One Building)            :i1, 2026-07-01, 180d
     Expand to Additional Buildings      :i2, after i1, 270d
     Full Campus Deployment              :i3, after i2, 180d
 ```
