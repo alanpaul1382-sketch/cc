@@ -84,7 +84,7 @@ This proposal analyses NYP's current operational and educational challenges, inc
 - **Cybersecurity** enhancements can prevent data breaches costing S$3–5M per incident and address Singapore's shortage of 3,400 cybersecurity professionals, at a Year 1 cost of S$0.77M–1.78M.
 - **IoT** smart campus solutions can reduce energy costs by 15–25% and equipment downtime by 40–50%, with a Year 1 investment of S$0.84M–1.75M.
 
-The total estimated investment ranges from **S$2.80M to S$5.95M in Year 1**, with projected annual recurring costs of S$0.79M–1.94M. These investments are justified by quantifiable operational savings, enhanced graduate employability, regulatory compliance, new CET revenue opportunities, and alignment with Singapore's EdTech market growth trajectory of 13.6% CAGR toward US$2.2 billion by 2027.
+The total estimated investment ranges from **S$2.80M to S$5.95M in Year 1**, with projected annual recurring costs of S$0.79M–1.94M. These investments are justified by quantifiable operational savings, enhanced graduate employability, regulatory compliance, new CET revenue opportunities, and alignment with Singapore's EdTech market growth trajectory of 13.6% CAGR toward US$2.2 billion by 2027 (Market Research Singapore, 2025).
 
 We recommend a **phased three-year implementation roadmap** beginning with AI and cybersecurity foundations, followed by immersive media pilot programmes, and concluding with campus-wide IoT deployment — ensuring manageable costs, measurable milestones, and sustained institutional buy-in.
 
@@ -111,7 +111,7 @@ This proposal focuses on **Nanyang Polytechnic (NYP)**, a leading polytechnic in
 
 ## 3. Organisation Overview & Value Chain Analysis
 
-**Nanyang Polytechnic (NYP)** was established in 1992 and is one of Singapore's five government-funded polytechnics. Located in Ang Mo Kio, NYP serves approximately 15,000 full-time students and thousands of adult learners across six academic schools:
+**Nanyang Polytechnic (NYP)** was established in 1992 and is one of Singapore's five government-funded polytechnics. Located in Ang Mo Kio, NYP serves approximately 15,000 full-time students and thousands of adult learners across six academic schools (NYP, 2025):
 
 - School of Business Management
 - School of Design & Media
@@ -211,7 +211,7 @@ With approximately 15,000 students and diverse learning needs, providing persona
 ### 4.3 Teacher Preparedness for Digital Pedagogy
 **Value Chain Activity:** Human Resource Development (Support)
 
-Continuous upskilling of lecturers in emerging digital tools (AI-powered platforms, VR/AR equipment, IoT labs) requires significant investment in professional development. Not all educators are equally confident with new technologies. According to UNESCO's 2023 study on Singapore's education system, teacher readiness for digital pedagogy remains uneven across institutions, with older faculty members reporting lower confidence in adopting new platforms (UNESCO, 2023).
+Continuous upskilling of lecturers in emerging digital tools (AI-powered platforms, VR/AR equipment, IoT labs) requires significant investment in professional development. Not all educators are equally confident with new technologies. According to UNESCO's 2023 study on Singapore's education system, teacher readiness for digital pedagogy remains uneven across institutions, with older faculty members reporting lower confidence in adopting new platforms (UNESCO, 2023). Research further highlights the tension between traditional pedagogical approaches and digital transformation in Singapore's education landscape, noting that institutions must navigate complex dualities between face-to-face and technology-mediated instruction (Springer, 2024).
 
 ### 4.4 Cybersecurity and Data Privacy Risks
 **Value Chain Activity:** IT Infrastructure (Support)
@@ -308,7 +308,7 @@ These figures demonstrate a robust and expanding market. The double-digit CAGR a
 | **International Student Fees** | Higher per-student yield | **Moderate**; subject to immigration policies |
 | **Licensing & IP Commercialisation** | Emerging | **High**; potential to license AI tutor models, VR content |
 
-**Growth Opportunity:** With Singapore's EdTech market projected to reach US$2.2 billion by 2027 and the broader e-learning market reaching US$12.5 billion by 2034, NYP is well-positioned to capture a larger share through technology-enhanced programmes, CET offerings, and industry partnerships. The CET segment is particularly promising: Singapore's SkillsFuture initiative provides government subsidies of up to 90% for qualifying courses, lowering the barrier for adult learners and creating predictable revenue for institutions that offer technology-focused upskilling programmes.
+**Growth Opportunity:** With Singapore's EdTech market projected to reach US$2.2 billion by 2027 (Market Research Singapore, 2025) and the broader e-learning market reaching US$12.5 billion by 2034 (IMARC Group, 2025), NYP is well-positioned to capture a larger share through technology-enhanced programmes, CET offerings, and industry partnerships. The CET segment is particularly promising: Singapore's SkillsFuture initiative provides government subsidies of up to 90% for qualifying courses, lowering the barrier for adult learners and creating predictable revenue for institutions that offer technology-focused upskilling programmes.
 
 **Key Insight:** NYP's adoption of emerging technologies is not merely a cost centre — it is a **revenue enabler**. AI-powered adaptive learning platforms, VR-based simulation modules, and IoT-equipped smart labs can be packaged as premium CET offerings, licensed to partner institutions regionally, and used as differentiators in student recruitment.
 
@@ -384,7 +384,7 @@ AI in education is set to disrupt the S$4.4 billion Singapore e-learning market 
 - Enabling **hyper-personalised learning at scale**, fundamentally shifting the education model from one-to-many lectures to one-to-one adaptive tutoring.
 - Creating new revenue streams through **AI-as-a-Service** offerings where NYP can license its AI tutor models to other polytechnics, ITEs, universities, and corporate training providers across ASEAN.
 - Shifting the competitive landscape as institutions without AI capabilities lose appeal to technology-savvy students and their parents.
-- Supporting Singapore's **National AI Strategy 2.0**, which aims to position Singapore as a global leader in AI and requires a pipeline of AI-literate graduates that NYP can supply.
+- Supporting Singapore's **National AI Strategy 2.0** (National AI Office, 2023), which aims to position Singapore as a global leader in AI and requires a pipeline of AI-literate graduates that NYP can supply.
 - Enabling **micro-credentialing and just-in-time learning**, where AI tailors short courses to individual learner needs — a rapidly growing segment of the CET market.
 
 ### 6.4 Impacts, Benefits, and Cost Analysis
@@ -895,7 +895,7 @@ To manage costs, minimise disruption, and build institutional confidence, we rec
 5. **Measure and communicate impact** through clear KPIs (student satisfaction scores, graduate employability rates, energy savings, security incident metrics) to sustain institutional buy-in and justify ongoing investment.
 6. **Prioritise ethical and inclusive adoption** by establishing clear data governance policies, providing alternative accommodations where technology may exclude certain students, and embedding digital ethics into the curriculum.
 
-As Singapore's EdTech market grows towards US$2.2 billion by 2027 and the e-learning market towards US$12.5 billion by 2034, NYP's strategic, phased adoption of these four emerging technologies will be critical to maintaining its position as a leading polytechnic, enhancing graduate employability, and contributing meaningfully to Singapore's Smart Nation vision and digital economy.
+As Singapore's EdTech market grows towards US$2.2 billion by 2027 (Market Research Singapore, 2025) and the e-learning market towards US$12.5 billion by 2034 (IMARC Group, 2025), NYP's strategic, phased adoption of these four emerging technologies will be critical to maintaining its position as a leading polytechnic, enhancing graduate employability, and contributing meaningfully to Singapore's Smart Nation vision and digital economy.
 
 ---
 
