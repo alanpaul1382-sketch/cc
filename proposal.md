@@ -161,6 +161,15 @@ Nanyang Polytechnic faces several significant challenges in an increasingly digi
 
 *Figure 2: Mapping of Challenges to Value Chain Activities*
 
+| Challenge | Section | Value Chain Activity | Activity Type |
+|-----------|---------|---------------------|---------------|
+| Student Engagement in Asynchronous Learning | 4.1 | Teaching & Learning | Primary |
+| Scalability of Personalised Education | 4.2 | Student Support Services | Primary |
+| Teacher Preparedness for Digital Pedagogy | 4.3 | Human Resource Development | Support |
+| Cybersecurity and Data Privacy Risks | 4.4 | IT Infrastructure | Support |
+| Infrastructure and Resource Constraints | 4.5 | Campus Operations & Facilities | Support |
+| Bridging the Academia-Industry Gap | 4.6 | Curriculum Development & Industry Engagement | Primary |
+
 ### 4.1 Student Engagement in Asynchronous Learning
 **Value Chain Activity:** Teaching & Learning (Primary)
 
