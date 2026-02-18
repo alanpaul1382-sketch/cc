@@ -120,11 +120,11 @@ Singapore's Green Plan 2030 calls on institutions to reduce carbon emissions, op
 
 ### 4.1 Singapore's Education Sector
 
-Singapore's education industry is valued at approximately **SGD 13 billion** annually (Ministry of Education expenditure, 2024). The polytechnic sub-sector receives significant government funding, with each polytechnic receiving annual grants in the range of SGD 200–400 million.
+Singapore's education industry is valued at approximately **SGD 13 billion** annually (Ministry of Education expenditure). The polytechnic sub-sector receives significant government funding, with each polytechnic receiving annual grants in the range of SGD 200–400 million.
 
 ### 4.2 EdTech Market Opportunity
 
-The global EdTech market was valued at approximately **USD 254 billion in 2024** and is projected to reach **USD 605 billion by 2030**, growing at a CAGR of approximately 13.6% (HolonIQ, 2024). In Southeast Asia, the EdTech market is expected to exceed **USD 20 billion by 2028**.
+The global EdTech market was valued at approximately **USD 254 billion in 2024** and is projected to reach **USD 605 billion by 2030**, growing at a CAGR of approximately 13.6% (HolonIQ). In Southeast Asia, the EdTech market is expected to exceed **USD 20 billion by 2028**.
 
 Key revenue opportunities for NYP include:
 
