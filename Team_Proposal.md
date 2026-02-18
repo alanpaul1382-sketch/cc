@@ -398,8 +398,12 @@ Employers can verify the authenticity of an NYP graduate's credentials by scanni
 
 **Process Flow:**
 
-```
-Student graduates → NYP issues blockchain certificate → Student shares QR code with employer → Employer scans/verifies instantly → Blockchain confirms authenticity
+```mermaid
+flowchart LR
+    A[Student Graduates] --> B[NYP Issues Blockchain Certificate]
+    B --> C[Student Shares QR Code with Employer]
+    C --> D[Employer Scans / Verifies]
+    D --> E[Blockchain Confirms Authenticity]
 ```
 
 #### 7.3.3 Micro-Credentials and Skills Badges
