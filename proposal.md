@@ -111,7 +111,7 @@ This proposal focuses on **Nanyang Polytechnic (NYP)**, a leading polytechnic in
 
 ## 3. Organisation Overview & Value Chain Analysis
 
-**Nanyang Polytechnic (NYP)** was established in 1992 and is one of Singapore's five government-funded polytechnics. Located in Ang Mo Kio, NYP serves approximately 15,000 full-time students and thousands of adult learners across seven academic schools:
+**Nanyang Polytechnic (NYP)** was established in 1992 and is one of Singapore's five government-funded polytechnics. Located in Ang Mo Kio, NYP serves approximately 15,000 full-time students and thousands of adult learners across six academic schools:
 
 - School of Business Management
 - School of Design & Media
@@ -119,7 +119,6 @@ This proposal focuses on **Nanyang Polytechnic (NYP)**, a leading polytechnic in
 - School of Health & Social Sciences
 - School of Information Technology
 - School of Applied Science
-- School of Interactive & Digital Media
 
 NYP's mission is to nurture industry-ready graduates through practice-oriented education, working closely with over 1,000 industry partners. The institution has been a pioneer in adopting technology in education, including the establishment of its **AI Nexus Lab** to support SMEs and provide students with real-world AI project experience (The Edge Singapore, 2024).
 
@@ -474,8 +473,7 @@ Immersive Media encompasses Virtual Reality (VR), Augmented Reality (AR), and Mi
 | Health & Social Sciences | Virtual patient simulations, clinical procedure practice | Safe skill rehearsal before real patients |
 | Engineering | 3D machinery visualisation, virtual factory tours | Spatial understanding of complex systems |
 | Applied Science | Virtual chemistry and biology labs | Reduced consumable costs, safe experimentation |
-| Design & Media | Immersive 3D design environments | Creative portfolio development |
-| Interactive & Digital Media | XR content creation projects | Industry-ready production skills |
+| Design & Media | Immersive 3D design environments, XR content creation projects | Creative portfolio development, industry-ready production skills |
 | Business Management | Virtual hospitality and retail scenarios | Customer service simulation |
 | Information Technology | VR cybersecurity incident response drills | Realistic threat response training |
 
@@ -505,7 +503,7 @@ Immersive Media encompasses Virtual Reality (VR), Augmented Reality (AR), and Mi
 The Singapore Smart Classroom market is projected to grow from **US$0.76 billion (2024) to US$1.8 billion by 2033** (CAGR 10.02%) (Reed Intelligence, 2025). Immersive media will disrupt education by:
 - Making **physical infrastructure less critical** — virtual labs can supplement or replace costly physical setups, enabling NYP to scale programmes without proportional increases in physical space.
 - Enabling **remote and cross-border education**, allowing NYP to offer immersive programmes to international students across ASEAN without them travelling to Singapore — opening a significant new market.
-- Creating demand for **immersive content creators** — a new job market that NYP graduates from the School of Design & Media and School of Interactive & Digital Media are well-positioned to enter.
+- Creating demand for **immersive content creators** — a new job market that NYP graduates from the School of Design & Media are well-positioned to enter.
 - Aligning with Singapore's push for the **metaverse economy** and IMDA's focus on immersive media technologies as a growth sector.
 - Supporting **inclusive education** by providing alternative learning modalities for students with different abilities and learning preferences.
 
@@ -539,7 +537,7 @@ The Singapore Smart Classroom market is projected to grow from **US$0.76 billion
 | **Total Year 1** | **690,000 – 1,220,000** | |
 | **Annual recurring (Year 2+)** | **80,000 – 160,000** | |
 
-**Innovative Proposal — VR Content Studio:** NYP should establish a dedicated **VR Content Creation Studio** within the School of Interactive & Digital Media, where students create immersive learning modules for other schools at NYP. This creates a self-sustaining ecosystem: students gain real-world production experience while NYP reduces external content development costs. The studio can also generate revenue by producing VR content for external clients (SMEs, government agencies).
+**Innovative Proposal — VR Content Studio:** NYP should establish a dedicated **VR Content Creation Studio** within the School of Design & Media, where students create immersive learning modules for other schools at NYP. This creates a self-sustaining ecosystem: students gain real-world production experience while NYP reduces external content development costs. The studio can also generate revenue by producing VR content for external clients (SMEs, government agencies).
 
 **Key Challenges for Adoption:**
 - High initial investment in hardware and content development, with limited off-the-shelf educational VR content available.
@@ -615,7 +613,7 @@ As NYP increasingly relies on digital platforms, robust cybersecurity becomes es
 
 **Data Protection & Compliance (Support Activity):**
 - **Data Loss Prevention (DLP):** Automated systems to detect and prevent unauthorised access, transfer, or leakage of sensitive student records, assessment data, and research information.
-- **PDPA Compliance Automation:** Tools to automate compliance with Singapore's Personal Data Protection Act, reducing manual audit effort and ensuring consistent data handling practices across all seven schools.
+- **PDPA Compliance Automation:** Tools to automate compliance with Singapore's Personal Data Protection Act, reducing manual audit effort and ensuring consistent data handling practices across all six schools.
 
 ### 8.3 Disruption to the Digital Economy and Future Markets
 
@@ -817,7 +815,7 @@ Each proposed technology directly addresses one or more of NYP's identified chal
   (Foundation)          (Expansion)           (Integration)       (Optimisation)
   ─────────────────────────────────────────────────────────────────────────────
   ┌──────────────────┐
-  │ AI Pilot         │──── AI Scale (All 7 Schools) ──── AI Optimisation ────→
+  │ AI Pilot         │──── AI Scale (All 6 Schools) ──── AI Optimisation ────→
   │ (3 schools)      │
   ├──────────────────┤
   │ Cybersecurity    │──── Zero Trust Matured ────────── Continuous ─────────→
@@ -880,7 +878,7 @@ To manage costs, minimise disruption, and build institutional confidence, we rec
 | Phase | Timeline | Technologies | Key Activities | Investment (S$) |
 |-------|----------|-------------|----------------|------------------|
 | **Phase 1: Foundation** | Year 1 (Months 1–12) | AI, Cybersecurity | Deploy AI tutor assistants (pilot in 3 schools); implement Zero Trust architecture; establish SOC; launch cyber range lab; staff training | 1.27M – 2.98M |
-| **Phase 2: Expansion** | Year 2 (Months 13–24) | Immersive Media, AI | Scale AI across all 7 schools; deploy VR labs (Health Sciences, Engineering); develop 5 VR learning modules; establish VR Content Studio; virtual campus tour | 0.69M – 1.22M |
+| **Phase 2: Expansion** | Year 2 (Months 13–24) | Immersive Media, AI | Scale AI across all 6 schools; deploy VR labs (Health Sciences, Engineering); develop 5 VR learning modules; establish VR Content Studio; virtual campus tour | 0.69M – 1.22M |
 | **Phase 3: Integration** | Year 3 (Months 25–36) | IoT, All | Campus-wide IoT sensor deployment; smart BMS integration; IoT teaching labs; Green Campus Challenge launch; full platform integration across all four technologies | 0.84M – 1.75M |
 
 **Rationale for phasing:**
@@ -890,7 +888,7 @@ To manage costs, minimise disruption, and build institutional confidence, we rec
 
 ### 10.4 Strategic Recommendations
 
-1. **Establish a cross-school Digital Transformation Office** to coordinate technology adoption across all seven schools, ensuring alignment with institutional strategy and avoiding siloed implementations.
+1. **Establish a cross-school Digital Transformation Office** to coordinate technology adoption across all six schools, ensuring alignment with institutional strategy and avoiding siloed implementations.
 2. **Secure government co-funding** through IMDA's Accreditation@SG Digital programme, SkillsFuture grants, and MOE's EdTech innovation funds to offset 30–50% of initial costs.
 3. **Build internal capability** by upskilling existing staff through structured professional development programmes, reducing dependence on external vendors.
 4. **Develop industry partnerships** with technology providers (AWS, Microsoft, Meta, NCS) for preferential pricing, co-development opportunities, and student internship placements.
