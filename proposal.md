@@ -771,15 +771,22 @@ The combined investment of SGD 5.3–10.5 million in Year 1 is projected to gene
 
 **Table 14: Five-Year Return on Investment Projection**
 
-| Year | Cumulative Investment (SGD) | Cumulative Benefits (SGD) | Net Position (SGD) |
-|------|----------------------------|---------------------------|---------------------|
-| Year 1 | 5,320,000 – 10,490,000 | 3,800,000 – 8,500,000 | −1,520,000 to −1,990,000 |
-| Year 2 | 6,150,000 – 11,940,000 | 7,600,000 – 17,000,000 | +1,450,000 to +5,060,000 |
-| Year 3 | 6,980,000 – 13,390,000 | 11,400,000 – 25,500,000 | +4,420,000 to +12,110,000 |
-| Year 4 | 7,810,000 – 14,840,000 | 15,200,000 – 34,000,000 | +7,390,000 to +19,160,000 |
-| Year 5 | 8,640,000 – 16,290,000 | 19,000,000 – 42,500,000 | +10,360,000 to +26,210,000 |
+The table below presents two scenarios: a **conservative estimate** (higher investment, lower benefits) and an **optimistic estimate** (lower investment, higher benefits).
 
-> **Note:** Annual maintenance costs of SGD 830,000–1,450,000 are included in cumulative investment for Years 2–5. Benefits assume steady-state annual returns with no growth premium.
+| Year | Scenario | Cumulative Investment (SGD) | Cumulative Benefits (SGD) | Net Position (SGD) |
+|------|----------|----------------------------|---------------------------|---------------------|
+| Year 1 | Conservative | 10,490,000 | 3,800,000 | −6,690,000 |
+| Year 1 | Optimistic | 5,320,000 | 8,500,000 | +3,180,000 |
+| Year 2 | Conservative | 11,940,000 | 7,600,000 | −4,340,000 |
+| Year 2 | Optimistic | 6,150,000 | 17,000,000 | +10,850,000 |
+| Year 3 | Conservative | 13,390,000 | 11,400,000 | −1,990,000 |
+| Year 3 | Optimistic | 6,980,000 | 25,500,000 | +18,520,000 |
+| Year 4 | Conservative | 14,840,000 | 15,200,000 | +360,000 |
+| Year 4 | Optimistic | 7,810,000 | 34,000,000 | +26,190,000 |
+| Year 5 | Conservative | 16,290,000 | 19,000,000 | +2,710,000 |
+| Year 5 | Optimistic | 8,640,000 | 42,500,000 | +33,860,000 |
+
+> **Key Takeaway:** Even under the conservative scenario, all investments achieve a positive return by Year 4, with a net gain of SGD 2.7 million by Year 5. Under the optimistic scenario, investment breaks even in Year 1 itself, with a five-year net gain of SGD 33.9 million. Annual maintenance costs of SGD 830,000–1,450,000 are included in cumulative investment for Years 2–5.
 
 **Figure 6: Phased Technology Adoption Roadmap**
 
