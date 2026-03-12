@@ -71,10 +71,8 @@ def fetch_transcript(video_id):
             transcript = transcript_list.find_generated_transcript(["en"])
         except Exception:
             # Try any available transcript
-            for t in transcript_list:
-                transcript = t
-                break
-            else:
+            transcript = next(iter(transcript_list), None)
+            if transcript is None:
                 return None
 
     entries = transcript.fetch()
@@ -305,7 +303,7 @@ def create_docx(metadata, summary, segments, images, output_path):
                 last_paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
                 cap = doc.add_paragraph(f"Figure {i}")
                 cap.alignment = WD_ALIGN_PARAGRAPH.CENTER
-                cap_run = cap.runs[0] if cap.runs else cap.add_run(f"Figure {i}")
+                cap_run = cap.runs[0]
                 cap_run.font.size = Pt(9)
                 cap_run.font.color.rgb = RGBColor(130, 130, 130)
             except Exception:
