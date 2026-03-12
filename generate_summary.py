@@ -29,6 +29,8 @@ from docx.enum.style import WD_STYLE_TYPE
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 IMAGES_DIR = os.path.join(SCRIPT_DIR, "images")
 OUTPUT_DOCX = os.path.join(SCRIPT_DIR, "Cryptocurrency_Technical_Analysis_Summary.docx")
+VIDEO_URL = "https://www.youtube.com/watch?v=BQdWgfYGqsI"
+VIDEO_TITLE = "Cryptocurrency Technical Analysis Tutorial"
 
 os.makedirs(IMAGES_DIR, exist_ok=True)
 
@@ -251,7 +253,7 @@ def build_document():
     font.color.rgb = RGBColor(0x33, 0x33, 0x33)
 
     # ---- Title ----
-    title = doc.add_heading("Cryptocurrency Technical Analysis Tutorial", level=0)
+    title = doc.add_heading(VIDEO_TITLE, level=0)
     title.alignment = WD_ALIGN_PARAGRAPH.CENTER
 
     subtitle = doc.add_paragraph()
@@ -265,7 +267,7 @@ def build_document():
     run = source.add_run("Source: ")
     run.font.size = Pt(10)
     run.font.color.rgb = RGBColor(0x99, 0x99, 0x99)
-    run = source.add_run("https://www.youtube.com/watch?v=BQdWgfYGqsI")
+    run = source.add_run(VIDEO_URL)
     run.font.size = Pt(10)
     run.font.color.rgb = RGBColor(0x1A, 0x73, 0xE8)
 
@@ -595,8 +597,8 @@ def build_document():
     footer.alignment = WD_ALIGN_PARAGRAPH.CENTER
     run = footer.add_run(
         "This document was generated as a summary of the YouTube video "
-        "\"Cryptocurrency Technical Analysis Tutorial\" "
-        "(https://www.youtube.com/watch?v=BQdWgfYGqsI). "
+        f"\"{VIDEO_TITLE}\" "
+        f"({VIDEO_URL}). "
         "All charts are illustrative examples created for educational purposes."
     )
     run.font.size = Pt(8)
