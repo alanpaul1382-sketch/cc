@@ -30,9 +30,9 @@ The strategy uses two moving averages — a **fast MA** (e.g. 10-period) and a *
 
 The **RSI** is an oscillator ranging from 0 to 100 that helps filter out false signals from the MA crossover:
 
-- **Overbought (above 70):** The asset may be due for a pullback — avoid entering new long positions.
-- **Oversold (below 30):** The asset may be due for a bounce — avoid entering new short positions.
-- **Neutral zone (30–70):** Safest area to enter trades following a crossover signal.
+- **Overbought (above 70):** The asset may be due for a pullback — avoid entering new long positions; look for potential short opportunities.
+- **Oversold (below 30):** The asset may be due for a bounce — look for potential buying opportunities rather than entering new shorts.
+- **Neutral zone (30–70):** Safest area to enter trades following a crossover signal, as the move has room to continue.
 
 ![Price Chart with RSI Indicator](images/rsi_indicator.png)
 
