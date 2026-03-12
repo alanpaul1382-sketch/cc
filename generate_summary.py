@@ -284,7 +284,7 @@ def build_document(img_dir: str, output_path: str) -> None:
     style.font.size = Pt(11)
     style.font.color.rgb = RGBColor(0x33, 0x33, 0x33)
 
-    # Helper to add a centred image with a caption
+    # Helper to add a centered image with a caption
     def _add_image(image_path: str, caption_text: str, width: float = 5.5):
         doc.add_paragraph()
         p = doc.add_paragraph()
