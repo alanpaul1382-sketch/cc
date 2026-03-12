@@ -56,7 +56,7 @@ One of the interview's strongest threads was the evident bond between the five a
 
 ![Cast Dynamics & Character Connections](images/character_connections.png)
 
-> The relationships between the five Straw Hat actors mirror the bonds of their characters. Note the playful rivalry between Zoro (Mackenyu) and Sanji (Taz Skylar), a fan-favourite dynamic that carries over from the anime and manga.
+> The relationships between the five Straw Hat actors mirror the bonds of their characters. Note the playful rivalry between Zoro (Mackenyu) and Sanji (Taz Skylar), a fan-favorite dynamic that carries over from the anime and manga.
 
 ---
 
@@ -64,7 +64,7 @@ One of the interview's strongest threads was the evident bond between the five a
 
 The lighter side of the interview included:
 
-- **Favourite One Piece characters** — Cast members revealed which characters from the anime and manga they personally connect with, sometimes choosing characters other than the ones they play.
+- **Favorite One Piece characters** — Cast members revealed which characters from the anime and manga they personally connect with, sometimes choosing characters other than the ones they play.
 - **Strange YouTube rabbit holes** — Several cast members confessed to quirky late-night viewing habits, though some of the most embarrassing specifics were quickly placed in the private box.
 - **Anime opinions** — A few hot takes about anime in general were shared publicly, drawing laughs and playful disagreements from the group.
 
@@ -75,7 +75,7 @@ The lighter side of the interview included:
 Without giving away spoilers, the cast hinted at what is ahead:
 
 - **Character growth** — Iñaki Godoy shared that Season 2 gives Luffy more room for both wildness and emotional depth, reflecting his own growth as an actor.
-- **New character introductions** — The cast expressed genuine excitement about earlier-than-expected introductions of fan-favourite characters such as Dragon, Sabo, and Brook. Mackenyu admitted to literally screaming when he first learned about these additions.
+- **New character introductions** — The cast expressed genuine excitement about earlier-than-expected introductions of fan-favorite characters such as Dragon, Sabo, and Brook. Mackenyu admitted to literally screaming when he first learned about these additions.
 - **Deeper crew dynamics** — The Straw Hats' bonds are tested more severely in Season 2, with themes of trust, sacrifice, and pursuing dreams under pressure coming to the fore.
 
 ---
