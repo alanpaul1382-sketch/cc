@@ -1,0 +1,6 @@
+# Haidilao placeholder color palette
+
+Primary: #C8102E
+Secondary: #222222
+White: #FFFFFF
+Accent: #F2C94C
